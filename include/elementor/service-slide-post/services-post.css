@@ -1,0 +1,21 @@
+/* =======================Style 1================================ */
+
+
+.service-slide .swiper-pagination {
+  position: initial;
+}
+.service-slide .swiper-pagination span {
+  background: #ddd;
+  opacity: 1;
+  height: 16px;
+  width: 16px;
+}
+.service-slide .swiper-pagination span.swiper-pagination-bullet-active {
+  background: #9ad953;
+  width: 50px;
+  border-radius: 12px;
+}
+
+.service-slide li.star-rate {
+  color: chocolate;
+}

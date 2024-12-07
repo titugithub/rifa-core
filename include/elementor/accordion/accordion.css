@@ -1,0 +1,75 @@
+.genarel-qustions-area h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+.genarel-qustions-area p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #868686;
+
+  letter-spacing: 0.03em;
+  line-height: 2;
+}
+.genarel-qustions-area .accordion .accordion-item {
+  border: none;
+  background-color: transparent;
+}
+.genarel-qustions-area .accordion .accordion-item .accordion-header {
+  border-bottom: 1px solid;
+  border-color: rgba(0, 29, 35, 0.1);
+}
+.genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button {
+  font-size: 1.125rem;
+  font-weight: 600;
+
+  text-transform: capitalize;
+  padding: 30px 0 20px;
+  background-color: transparent;
+  text-transform: capitalize;
+}
+.genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button:focus {
+  box-shadow: none;
+  border: none;
+}
+.genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button:not(.collapsed) {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+}
+/* .genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button:not(.collapsed)::after {
+  content: "\f2ea";
+  transform: rotate(0deg);
+} */
+.genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button.collapsed {
+  border: transparent;
+}
+/* .genarel-qustions-area .accordion .accordion-item .accordion-header .accordion-button::after {
+  content: "\f4fe";
+  font-weight: 600;
+  font-size: 20px;
+  color: var(--title-color1);
+  font-family: "Bootstrap-icons";
+  background-image: none;
+} */
+
+.faq-page .accordion-button .icon {
+  margin-left: auto; /* Push the icon to the right */
+  font-size: 16px;   /* Adjust icon size */
+}
+
+.faq-page .accordion-button::after{
+  content: unset !important;
+}
+
+.faq-page .accordion-collapse {
+  transition: height 0.3s ease, opacity 0.3s ease;
+  overflow: hidden;
+}
+
+.faq-page .accordion-body {
+  transition: all 0.3s ease;
+}
+

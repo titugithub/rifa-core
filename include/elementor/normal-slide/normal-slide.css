@@ -1,0 +1,21 @@
+/* =======================Style 1================================ */
+
+
+.ft-testimonial-one .swiper-pagination {
+  position: initial;
+}
+.ft-testimonial-one .swiper-pagination span {
+  background: #ddd;
+  opacity: 1;
+  height: 16px;
+  width: 16px;
+}
+.ft-testimonial-one .swiper-pagination span.swiper-pagination-bullet-active {
+  background: #9ad953;
+  width: 50px;
+  border-radius: 12px;
+}
+
+.ft-testimonial-one li.star-rate {
+  color: chocolate;
+}

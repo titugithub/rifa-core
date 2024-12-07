@@ -1,0 +1,21 @@
+/* =======================Style 1================================ */
+
+
+.portfolios-slide .swiper-pagination {
+  position: initial;
+}
+.portfolios-slide .swiper-pagination span {
+  background: #ddd;
+  opacity: 1;
+  height: 16px;
+  width: 16px;
+}
+.portfolios-slide .swiper-pagination span.swiper-pagination-bullet-active {
+  background: #9ad953;
+  width: 50px;
+  border-radius: 12px;
+}
+
+.portfolios-slide li.star-rate {
+  color: chocolate;
+}

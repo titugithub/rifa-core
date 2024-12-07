@@ -1,0 +1,3634 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Rifa Core\n"
+"POT-Creation-Date: 2024-12-07 10:09+0600\n"
+"PO-Revision-Date: 2024-12-07 10:15+0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: plugin.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: controls/bggradient.php:55 controls/gradient.php:55
+msgctxt "Background Control"
+msgid "Select Color Type"
+msgstr ""
+
+#: controls/bggradient.php:56
+msgctxt "Background Control"
+msgid ""
+"Gradient color not work editor mode. If you set gradient color please view "
+"the result live preview page."
+msgstr ""
+
+#: controls/bggradient.php:62
+msgctxt "Color Control"
+msgid "Solid"
+msgstr ""
+
+#: controls/bggradient.php:66
+msgctxt "Color Control"
+msgid "Gradient"
+msgstr ""
+
+#: controls/bggradient.php:74 controls/gradient.php:72
+msgctxt "Background Control"
+msgid "Color"
+msgstr ""
+
+#: controls/bggradient.php:77
+msgctxt "Background Control"
+msgid "Start Color"
+msgstr ""
+
+#: controls/bggradient.php:87 controls/bggradient.php:113
+#: controls/gradient.php:85 controls/gradient.php:109
+msgctxt "Background Control"
+msgid "Location"
+msgstr ""
+
+#: controls/bggradient.php:102
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr ""
+
+#: controls/bggradient.php:128 controls/gradient.php:123
+msgctxt "Background Control"
+msgid "Type"
+msgstr ""
+
+#: controls/bggradient.php:131 controls/gradient.php:126
+msgctxt "Background Control"
+msgid "Linear"
+msgstr ""
+
+#: controls/bggradient.php:132 controls/gradient.php:127
+msgctxt "Background Control"
+msgid "Radial"
+msgstr ""
+
+#: controls/bggradient.php:143 controls/gradient.php:137
+msgctxt "Background Control"
+msgid "Angle"
+msgstr ""
+
+#: controls/bggradient.php:166 controls/gradient.php:160
+msgctxt "Background Control"
+msgid "Position"
+msgstr ""
+
+#: controls/bggradient.php:169 controls/gradient.php:163
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: controls/bggradient.php:170 controls/gradient.php:164
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: controls/bggradient.php:171 controls/gradient.php:165
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: controls/bggradient.php:172 controls/gradient.php:166
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: controls/bggradient.php:173 controls/gradient.php:167
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: controls/bggradient.php:174 controls/gradient.php:168
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: controls/bggradient.php:175 controls/gradient.php:169
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: controls/bggradient.php:176 controls/gradient.php:170
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: controls/bggradient.php:177 controls/gradient.php:171
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: controls/gradient.php:60
+msgctxt "Text Color Control"
+msgid "Solid"
+msgstr ""
+
+#: controls/gradient.php:64
+msgctxt "Text Color Control"
+msgid "Gradient"
+msgstr ""
+
+#: controls/gradient.php:75
+msgctxt "Background Control"
+msgid "Text Color"
+msgstr ""
+
+#: controls/gradient.php:99
+msgctxt "Background Control"
+msgid "Second Color (No effect for custom SVG)"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#: ftcorer.php:142
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ftcorer.php:143 ftcorer.php:166 ftcorer.php:190
+msgid "Ft Core"
+msgstr ""
+
+#: ftcorer.php:144 ftcorer.php:167
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: ftcorer.php:165 ftcorer.php:189
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ftcorer.php:191
+msgid "PHP"
+msgstr ""
+
+#: include/class-ocdi-importer.php:20
+msgid "Home 1"
+msgstr ""
+
+#: include/class-ocdi-importer.php:21
+msgid "home"
+msgstr ""
+
+#: include/common-functions.php:181
+#, php-format
+msgid "This input field has support for the following HTML tags: %1$s"
+msgstr ""
+
+#: include/custom-post-portfolio.php:31
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: include/custom-post-portfolio.php:32
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: include/custom-post-portfolio.php:33 include/custom-post-portfolio.php:34
+#: include/custom-post-portfolio.php:59
+msgid "Portfolio"
+msgstr ""
+
+#: include/custom-post-portfolio.php:35 include/custom-post-services.php:35
+msgid "Item Archives"
+msgstr ""
+
+#: include/custom-post-portfolio.php:36 include/custom-post-portfolio.php:87
+#: include/custom-post-services.php:36 include/custom-post-services.php:87
+msgid "Parent Item:"
+msgstr ""
+
+#: include/custom-post-portfolio.php:37 include/custom-post-services.php:37
+msgid "All Items"
+msgstr ""
+
+#: include/custom-post-portfolio.php:38
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/custom-post-portfolio.php:39 include/custom-post-services.php:39
+msgid "Add New"
+msgstr ""
+
+#: include/custom-post-portfolio.php:40 include/custom-post-services.php:40
+msgid "New Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:41 include/custom-post-services.php:41
+msgid "Edit Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:42 include/custom-post-services.php:42
+msgid "Update Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:43 include/custom-post-services.php:43
+msgid "View Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:44 include/custom-post-services.php:44
+msgid "Search Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:45 include/custom-post-services.php:45
+msgid "Not found"
+msgstr ""
+
+#: include/custom-post-portfolio.php:46 include/custom-post-services.php:46
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/custom-post-portfolio.php:47 include/custom-post-services.php:47
+msgid "Featured Image"
+msgstr ""
+
+#: include/custom-post-portfolio.php:48 include/custom-post-services.php:48
+msgid "Set featured image"
+msgstr ""
+
+#: include/custom-post-portfolio.php:49 include/custom-post-services.php:49
+msgid "Remove featured image"
+msgstr ""
+
+#: include/custom-post-portfolio.php:50 include/custom-post-services.php:50
+msgid "Use as featured image"
+msgstr ""
+
+#: include/custom-post-portfolio.php:51 include/custom-post-services.php:51
+msgid "Insert into item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:52 include/custom-post-services.php:52
+msgid "Uploaded to this item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:53 include/custom-post-services.php:53
+msgid "Items list"
+msgstr ""
+
+#: include/custom-post-portfolio.php:54 include/custom-post-services.php:54
+msgid "Items list navigation"
+msgstr ""
+
+#: include/custom-post-portfolio.php:55 include/custom-post-services.php:55
+msgid "Filter items list"
+msgstr ""
+
+#: include/custom-post-portfolio.php:82
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post-portfolio.php:83
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post-portfolio.php:84
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post-portfolio.php:85
+msgid "All Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:86 include/custom-post-services.php:86
+msgid "Parent Item"
+msgstr ""
+
+#: include/custom-post-portfolio.php:88
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: include/custom-post-portfolio.php:89
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:90
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:91
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:92
+msgid "View Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:93 include/custom-post-services.php:93
+msgid "Separate items with commas"
+msgstr ""
+
+#: include/custom-post-portfolio.php:94 include/custom-post-services.php:94
+msgid "Add or remove items"
+msgstr ""
+
+#: include/custom-post-portfolio.php:95 include/custom-post-services.php:95
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/custom-post-portfolio.php:96
+msgid "Popular Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:97
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:98 include/custom-post-services.php:98
+msgid "Not Found"
+msgstr ""
+
+#: include/custom-post-portfolio.php:99
+msgid "No Portfolio Category"
+msgstr ""
+
+#: include/custom-post-portfolio.php:100
+msgid "Portfolio Category list"
+msgstr ""
+
+#: include/custom-post-portfolio.php:101
+msgid "Portfolio Category list navigation"
+msgstr ""
+
+#: include/custom-post-services.php:31
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: include/custom-post-services.php:32
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: include/custom-post-services.php:33 include/custom-post-services.php:34
+#: include/custom-post-services.php:59
+msgid "Service"
+msgstr ""
+
+#: include/custom-post-services.php:38
+msgid "Add New Service"
+msgstr ""
+
+#: include/custom-post-services.php:82
+msgctxt "Taxonomy General Name"
+msgid "Service Categories"
+msgstr ""
+
+#: include/custom-post-services.php:83
+msgctxt "Taxonomy Singular Name"
+msgid "Service Categories"
+msgstr ""
+
+#: include/custom-post-services.php:84
+msgid "Service Categories"
+msgstr ""
+
+#: include/custom-post-services.php:85
+msgid "All Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:88
+msgid "New Service Category Name"
+msgstr ""
+
+#: include/custom-post-services.php:89
+msgid "Add New Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:90
+msgid "Edit Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:91
+msgid "Update Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:92
+msgid "View Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:96
+msgid "Popular Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:97
+msgid "Search Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:99
+msgid "No Service Category"
+msgstr ""
+
+#: include/custom-post-services.php:100
+msgid "Service Category list"
+msgstr ""
+
+#: include/custom-post-services.php:101
+msgid "Service Category list navigation"
+msgstr ""
+
+#: include/elementor-functions.php:52 include/elementor-functions.php:142
+#: include/elementor-functions.php:231 include/elementor-functions.php:319
+#: include/elementor-functions.php:407 include/elementor-functions.php:495
+#: include/elementor-functions.php:666 include/elementor-functions.php:756
+#: include/elementor-functions.php:846 include/elementor-functions.php:936
+#: include/elementor-functions.php:1025 include/elementor-functions.php:1113
+#: include/elementor-functions.php:1203 include/elementor-functions.php:1293
+#: include/elementor-functions.php:1383 include/elementor-functions.php:1473
+#: include/elementor/accordion/accordion.php:144
+#: include/elementor/accordion/accordion.php:212
+#: include/elementor/blog/blog.php:446 include/elementor/blog/blog.php:533
+#: include/elementor/blog/blog.php:612 include/elementor/blog/blog.php:687
+#: include/elementor/blog/blog.php:765 include/elementor/blog/blog.php:833
+#: include/elementor/btn/btn.php:237 include/elementor/btn/btn.php:365
+#: include/elementor/counter/counter.php:308
+#: include/elementor/counter/counter.php:338
+#: include/elementor/description/description.php:197
+#: include/elementor/heading/heading.php:223
+#: include/elementor/heading/heading.php:280
+#: include/elementor/heading/heading.php:340
+#: include/elementor/imageparalax/imageparalax.php:248
+#: include/elementor/imageparalax/imageparalax.php:304
+#: include/elementor/normal-slide/normal-slide.php:337
+#: include/elementor/normal-slide/normal-slide.php:393
+#: include/elementor/normal-slide/normal-slide.php:460
+#: include/elementor/portfolios-post/portfolios.php:446
+#: include/elementor/portfolios-post/portfolios.php:533
+#: include/elementor/portfolios-post/portfolios.php:612
+#: include/elementor/portfolios-post/portfolios.php:687
+#: include/elementor/portfolios-post/portfolios.php:765
+#: include/elementor/portfolios-post/portfolios.php:833
+#: include/elementor/portfolios-slide-post/portfolios-post.php:466
+#: include/elementor/portfolios-slide-post/portfolios-post.php:522
+#: include/elementor/portfolios-slide-post/portfolios-post.php:589
+#: include/elementor/price/price.php:234 include/elementor/price/price.php:294
+#: include/elementor/price/price.php:350 include/elementor/price/price.php:407
+#: include/elementor/price/price.php:463 include/elementor/price/price.php:520
+#: include/elementor/service-slide-post/services-post.php:466
+#: include/elementor/service-slide-post/services-post.php:522
+#: include/elementor/service-slide-post/services-post.php:589
+#: include/elementor/services-post/services.php:446
+#: include/elementor/services-post/services.php:533
+#: include/elementor/services-post/services.php:612
+#: include/elementor/services-post/services.php:687
+#: include/elementor/services-post/services.php:765
+#: include/elementor/services-post/services.php:833
+#: include/elementor/subtitle/subtitle.php:197
+#: include/elementor/title/title.php:197
+msgid "Typography"
+msgstr ""
+
+#: include/elementor-functions.php:62 include/elementor-functions.php:152
+#: include/elementor-functions.php:241 include/elementor-functions.php:329
+#: include/elementor-functions.php:417 include/elementor-functions.php:505
+#: include/elementor-functions.php:676 include/elementor-functions.php:766
+#: include/elementor-functions.php:856 include/elementor-functions.php:946
+#: include/elementor-functions.php:1035 include/elementor-functions.php:1123
+#: include/elementor-functions.php:1213 include/elementor-functions.php:1303
+#: include/elementor-functions.php:1393 include/elementor-functions.php:1483
+#: include/elementor/about/about2.php:177
+#: include/elementor/about/about2.php:219
+#: include/elementor/about/about2.php:261
+#: include/elementor/accordion/accordion.php:154
+#: include/elementor/accordion/accordion.php:222
+#: include/elementor/affiliate/affiliate.php:212
+#: include/elementor/affiliate/affiliate.php:253
+#: include/elementor/affiliate/affiliate.php:294
+#: include/elementor/banner/banner2.php:243
+#: include/elementor/banner/banner2.php:285
+#: include/elementor/banner/banner2.php:327
+#: include/elementor/banner/banner2.php:491
+#: include/elementor/banner/banner2.php:523
+#: include/elementor/banner/banner3.php:230
+#: include/elementor/banner/banner3.php:272
+#: include/elementor/banner/banner3.php:314
+#: include/elementor/banner/banner3.php:478
+#: include/elementor/banner/banner3.php:510 include/elementor/blog/blog.php:456
+#: include/elementor/blog/blog.php:543 include/elementor/blog/blog.php:622
+#: include/elementor/blog/blog.php:697 include/elementor/blog/blog.php:775
+#: include/elementor/blog/blog.php:843 include/elementor/btn/btn.php:247
+#: include/elementor/btn/btn.php:375 include/elementor/counter/counter.php:316
+#: include/elementor/counter/counter.php:346
+#: include/elementor/description/description.php:207
+#: include/elementor/faq/faq.php:322 include/elementor/faq/faq.php:354
+#: include/elementor/feature/feature2.php:274
+#: include/elementor/feature/feature2.php:316
+#: include/elementor/feature/feature2.php:358
+#: include/elementor/heading/heading.php:233
+#: include/elementor/heading/heading.php:290
+#: include/elementor/heading/heading.php:350
+#: include/elementor/imageparalax/imageparalax.php:258
+#: include/elementor/imageparalax/imageparalax.php:314
+#: include/elementor/imageparalax/imageparalax.php:362
+#: include/elementor/normal-slide/normal-slide.php:347
+#: include/elementor/normal-slide/normal-slide.php:403
+#: include/elementor/normal-slide/normal-slide.php:470
+#: include/elementor/portfolios-post/portfolios.php:456
+#: include/elementor/portfolios-post/portfolios.php:543
+#: include/elementor/portfolios-post/portfolios.php:622
+#: include/elementor/portfolios-post/portfolios.php:697
+#: include/elementor/portfolios-post/portfolios.php:775
+#: include/elementor/portfolios-post/portfolios.php:843
+#: include/elementor/portfolios-slide-post/portfolios-post.php:476
+#: include/elementor/portfolios-slide-post/portfolios-post.php:532
+#: include/elementor/portfolios-slide-post/portfolios-post.php:599
+#: include/elementor/price/price.php:244 include/elementor/price/price.php:304
+#: include/elementor/price/price.php:360 include/elementor/price/price.php:417
+#: include/elementor/price/price.php:473 include/elementor/price/price.php:530
+#: include/elementor/service-slide-post/services-post.php:476
+#: include/elementor/service-slide-post/services-post.php:532
+#: include/elementor/service-slide-post/services-post.php:599
+#: include/elementor/services-post/services.php:456
+#: include/elementor/services-post/services.php:543
+#: include/elementor/services-post/services.php:622
+#: include/elementor/services-post/services.php:697
+#: include/elementor/services-post/services.php:775
+#: include/elementor/services-post/services.php:843
+#: include/elementor/subtitle/subtitle.php:207
+#: include/elementor/title/title.php:207
+msgid "Color"
+msgstr ""
+
+#: include/elementor-functions.php:74 include/elementor-functions.php:164
+#: include/elementor-functions.php:253 include/elementor-functions.php:341
+#: include/elementor-functions.php:429 include/elementor-functions.php:517
+#: include/elementor-functions.php:597 include/elementor-functions.php:688
+#: include/elementor-functions.php:778 include/elementor-functions.php:868
+#: include/elementor-functions.php:958 include/elementor-functions.php:1047
+#: include/elementor-functions.php:1135 include/elementor-functions.php:1225
+#: include/elementor-functions.php:1315 include/elementor-functions.php:1405
+#: include/elementor-functions.php:1495 include/elementor/blog/blog.php:466
+#: include/elementor/blog/blog.php:553 include/elementor/blog/blog.php:632
+#: include/elementor/blog/blog.php:708 include/elementor/blog/blog.php:854
+#: include/elementor/btn/btn.php:257 include/elementor/btn/btn.php:385
+#: include/elementor/normal-slide/normal-slide.php:413
+#: include/elementor/portfolios-post/portfolios.php:466
+#: include/elementor/portfolios-post/portfolios.php:553
+#: include/elementor/portfolios-post/portfolios.php:632
+#: include/elementor/portfolios-post/portfolios.php:708
+#: include/elementor/portfolios-post/portfolios.php:854
+#: include/elementor/portfolios-slide-post/portfolios-post.php:542
+#: include/elementor/price/price.php:541
+#: include/elementor/service-slide-post/services-post.php:542
+#: include/elementor/services-post/services.php:466
+#: include/elementor/services-post/services.php:553
+#: include/elementor/services-post/services.php:632
+#: include/elementor/services-post/services.php:708
+#: include/elementor/services-post/services.php:854
+msgid "Hover Color"
+msgstr ""
+
+#: include/elementor-functions.php:88 include/elementor-functions.php:178
+#: include/elementor-functions.php:267 include/elementor-functions.php:355
+#: include/elementor-functions.php:443 include/elementor-functions.php:531
+#: include/elementor-functions.php:702 include/elementor-functions.php:792
+#: include/elementor-functions.php:882 include/elementor-functions.php:973
+#: include/elementor-functions.php:1061 include/elementor-functions.php:1149
+#: include/elementor-functions.php:1239 include/elementor-functions.php:1329
+#: include/elementor-functions.php:1419 include/elementor-functions.php:1509
+#: include/elementor-functions.php:2075 include/elementor-functions.php:2329
+#: include/elementor/about/about2.php:188
+#: include/elementor/about/about2.php:230
+#: include/elementor/about/about2.php:272
+#: include/elementor/accordion/accordion.php:174
+#: include/elementor/accordion/accordion.php:232
+#: include/elementor/affiliate/affiliate.php:231
+#: include/elementor/affiliate/affiliate.php:272
+#: include/elementor/banner/banner2.php:254
+#: include/elementor/banner/banner2.php:296
+#: include/elementor/banner/banner2.php:338
+#: include/elementor/banner/banner2.php:640
+#: include/elementor/banner/banner3.php:241
+#: include/elementor/banner/banner3.php:283
+#: include/elementor/banner/banner3.php:325
+#: include/elementor/banner/banner3.php:603 include/elementor/blog/blog.php:496
+#: include/elementor/blog/blog.php:573 include/elementor/blog/blog.php:652
+#: include/elementor/blog/blog.php:729 include/elementor/blog/blog.php:796
+#: include/elementor/blog/blog.php:875 include/elementor/btn/btn.php:318
+#: include/elementor/btn/btn.php:446
+#: include/elementor/description/description.php:228
+#: include/elementor/feature/feature2.php:285
+#: include/elementor/feature/feature2.php:327
+#: include/elementor/feature/feature2.php:369
+#: include/elementor/heading/heading.php:243
+#: include/elementor/heading/heading.php:300
+#: include/elementor/heading/heading.php:360
+#: include/elementor/imageparalax/imageparalax.php:268
+#: include/elementor/imageparalax/imageparalax.php:324
+#: include/elementor/normal-slide/normal-slide.php:357
+#: include/elementor/normal-slide/normal-slide.php:423
+#: include/elementor/normal-slide/normal-slide.php:480
+#: include/elementor/portfolios-post/portfolios.php:496
+#: include/elementor/portfolios-post/portfolios.php:573
+#: include/elementor/portfolios-post/portfolios.php:652
+#: include/elementor/portfolios-post/portfolios.php:729
+#: include/elementor/portfolios-post/portfolios.php:796
+#: include/elementor/portfolios-post/portfolios.php:875
+#: include/elementor/portfolios-slide-post/portfolios-post.php:486
+#: include/elementor/portfolios-slide-post/portfolios-post.php:552
+#: include/elementor/portfolios-slide-post/portfolios-post.php:609
+#: include/elementor/price/price.php:254 include/elementor/price/price.php:314
+#: include/elementor/price/price.php:370 include/elementor/price/price.php:427
+#: include/elementor/price/price.php:483
+#: include/elementor/service-slide-post/services-post.php:486
+#: include/elementor/service-slide-post/services-post.php:552
+#: include/elementor/service-slide-post/services-post.php:609
+#: include/elementor/services-post/services.php:496
+#: include/elementor/services-post/services.php:573
+#: include/elementor/services-post/services.php:652
+#: include/elementor/services-post/services.php:729
+#: include/elementor/services-post/services.php:796
+#: include/elementor/services-post/services.php:875
+#: include/elementor/subtitle/subtitle.php:228
+#: include/elementor/title/title.php:228
+msgid "Margin"
+msgstr ""
+
+#: include/elementor-functions.php:104 include/elementor-functions.php:194
+#: include/elementor-functions.php:283 include/elementor-functions.php:371
+#: include/elementor-functions.php:459 include/elementor-functions.php:547
+#: include/elementor-functions.php:616 include/elementor-functions.php:718
+#: include/elementor-functions.php:808 include/elementor-functions.php:898
+#: include/elementor-functions.php:989 include/elementor-functions.php:1077
+#: include/elementor-functions.php:1165 include/elementor-functions.php:1255
+#: include/elementor-functions.php:1345 include/elementor-functions.php:1435
+#: include/elementor-functions.php:1525 include/elementor-functions.php:2064
+#: include/elementor-functions.php:2318
+#: include/elementor/accordion/accordion.php:186
+#: include/elementor/accordion/accordion.php:244
+#: include/elementor/affiliate/affiliate.php:408
+#: include/elementor/banner/banner2.php:458
+#: include/elementor/banner/banner2.php:628
+#: include/elementor/banner/banner3.php:445 include/elementor/blog/blog.php:508
+#: include/elementor/blog/blog.php:585 include/elementor/blog/blog.php:664
+#: include/elementor/blog/blog.php:741 include/elementor/blog/blog.php:808
+#: include/elementor/blog/blog.php:887 include/elementor/blog/blog.php:933
+#: include/elementor/btn/btn.php:330 include/elementor/btn/btn.php:458
+#: include/elementor/counter/counter.php:230
+#: include/elementor/description/description.php:240
+#: include/elementor/feature/feature.php:339
+#: include/elementor/feature/feature2.php:419
+#: include/elementor/feature/feature3.php:341
+#: include/elementor/heading/heading.php:255
+#: include/elementor/heading/heading.php:312
+#: include/elementor/heading/heading.php:372
+#: include/elementor/imageparalax/imageparalax.php:280
+#: include/elementor/imageparalax/imageparalax.php:336
+#: include/elementor/imageparalax/imageparalax.php:383
+#: include/elementor/language-switcher/language-switcher.php:142
+#: include/elementor/normal-slide/normal-slide.php:369
+#: include/elementor/normal-slide/normal-slide.php:435
+#: include/elementor/normal-slide/normal-slide.php:492
+#: include/elementor/portfolios-post/portfolios.php:508
+#: include/elementor/portfolios-post/portfolios.php:585
+#: include/elementor/portfolios-post/portfolios.php:664
+#: include/elementor/portfolios-post/portfolios.php:741
+#: include/elementor/portfolios-post/portfolios.php:808
+#: include/elementor/portfolios-post/portfolios.php:887
+#: include/elementor/portfolios-post/portfolios.php:933
+#: include/elementor/portfolios-slide-post/portfolios-post.php:498
+#: include/elementor/portfolios-slide-post/portfolios-post.php:564
+#: include/elementor/portfolios-slide-post/portfolios-post.php:621
+#: include/elementor/price/price.php:266 include/elementor/price/price.php:326
+#: include/elementor/price/price.php:382 include/elementor/price/price.php:439
+#: include/elementor/price/price.php:495 include/elementor/price/price.php:598
+#: include/elementor/service-slide-post/services-post.php:498
+#: include/elementor/service-slide-post/services-post.php:564
+#: include/elementor/service-slide-post/services-post.php:621
+#: include/elementor/services-post/services.php:508
+#: include/elementor/services-post/services.php:585
+#: include/elementor/services-post/services.php:664
+#: include/elementor/services-post/services.php:741
+#: include/elementor/services-post/services.php:808
+#: include/elementor/services-post/services.php:887
+#: include/elementor/services-post/services.php:933
+#: include/elementor/subtitle/subtitle.php:240
+#: include/elementor/testimonial/testimonial.php:395
+#: include/elementor/title/title.php:240 include/elementor/watch/watch.php:285
+msgid "Padding"
+msgstr ""
+
+#: include/elementor-functions.php:585 include/elementor/about/about2.php:403
+#: include/elementor/about/about2.php:478
+#: include/elementor/accordion-tab/accordion-tab.php:420
+#: include/elementor/blog/blog.php:911 include/elementor/btn/btn.php:267
+#: include/elementor/btn/btn.php:395 include/elementor/counter/counter.php:212
+#: include/elementor/faq/faq.php:333 include/elementor/faq/faq.php:365
+#: include/elementor/faq/faq.php:411 include/elementor/faq/faq.php:443
+#: include/elementor/faq/faq.php:479
+#: include/elementor/portfolios-post/portfolios.php:911
+#: include/elementor/price/price.php:552 include/elementor/price/price.php:587
+#: include/elementor/services-post/services.php:911
+#: include/elementor/watch/watch.php:245 include/elementor/watch/watch.php:318
+msgid "Background"
+msgstr ""
+
+#: include/elementor-functions.php:1560 include/elementor-functions.php:1632
+#: include/elementor-functions.php:1703 include/elementor-functions.php:1776
+#: include/elementor/banner/banner2.php:569
+#: include/elementor/banner/banner3.php:560 include/elementor/blog/blog.php:388
+#: include/elementor/imageparalax/imageparalax.php:190
+#: include/elementor/normal-slide/normal-slide.php:280
+#: include/elementor/portfolios-post/portfolios.php:388
+#: include/elementor/portfolios-slide-post/portfolios-post.php:409
+#: include/elementor/price/price.php:173
+#: include/elementor/service-slide-post/services-post.php:409
+#: include/elementor/services-post/services.php:388
+#: include/elementor/testimonial/testimonial.php:440
+#: include/elementor/video/video.php:117
+msgid "Height"
+msgstr ""
+
+#: include/elementor-functions.php:1563 include/elementor-functions.php:1635
+#: include/elementor-functions.php:1706 include/elementor-functions.php:1779
+#: include/elementor/blog/blog.php:391
+#: include/elementor/imageparalax/imageparalax.php:193
+#: include/elementor/normal-slide/normal-slide.php:283
+#: include/elementor/portfolios-post/portfolios.php:391
+#: include/elementor/portfolios-slide-post/portfolios-post.php:412
+#: include/elementor/price/price.php:176
+#: include/elementor/service-slide-post/services-post.php:412
+#: include/elementor/services-post/services.php:391
+#: include/elementor/video/video.php:120
+msgid "Choose height in px or %"
+msgstr ""
+
+#: include/elementor-functions.php:1576 include/elementor-functions.php:1648
+#: include/elementor-functions.php:1719 include/elementor-functions.php:1792
+#: include/elementor/banner/banner2.php:549
+#: include/elementor/banner/banner3.php:536 include/elementor/blog/blog.php:405
+#: include/elementor/imageparalax/imageparalax.php:207
+#: include/elementor/normal-slide/normal-slide.php:297
+#: include/elementor/portfolios-post/portfolios.php:405
+#: include/elementor/portfolios-slide-post/portfolios-post.php:426
+#: include/elementor/price/price.php:190
+#: include/elementor/service-slide-post/services-post.php:426
+#: include/elementor/services-post/services.php:405
+#: include/elementor/testimonial/testimonial.php:418
+msgid "Width"
+msgstr ""
+
+#: include/elementor-functions.php:1579 include/elementor-functions.php:1651
+#: include/elementor-functions.php:1722 include/elementor-functions.php:1795
+#: include/elementor/blog/blog.php:408
+#: include/elementor/imageparalax/imageparalax.php:210
+#: include/elementor/normal-slide/normal-slide.php:300
+#: include/elementor/portfolios-post/portfolios.php:408
+#: include/elementor/portfolios-slide-post/portfolios-post.php:429
+#: include/elementor/price/price.php:193
+#: include/elementor/service-slide-post/services-post.php:429
+#: include/elementor/services-post/services.php:408
+msgid "Choose width in px or %"
+msgstr ""
+
+#: include/elementor-functions.php:1592 include/elementor-functions.php:1664
+#: include/elementor-functions.php:1735 include/elementor-functions.php:1808
+#: include/elementor-functions.php:1952 include/elementor-functions.php:2206
+#: include/elementor/about/about.php:378 include/elementor/about/about2.php:421
+#: include/elementor/about/about2.php:496
+#: include/elementor/affiliate/affiliate.php:396
+#: include/elementor/banner/banner2.php:446
+#: include/elementor/banner/banner2.php:596
+#: include/elementor/banner/banner2.php:660
+#: include/elementor/banner/banner3.php:433
+#: include/elementor/banner/banner3.php:591 include/elementor/blog/blog.php:422
+#: include/elementor/btn/btn.php:307 include/elementor/btn/btn.php:435
+#: include/elementor/contact/contact.php:666
+#: include/elementor/feature/feature.php:362
+#: include/elementor/feature/feature3.php:329
+#: include/elementor/imageparalax/imageparalax.php:224
+#: include/elementor/language-switcher/language-switcher.php:130
+#: include/elementor/normal-slide/normal-slide.php:314
+#: include/elementor/portfolios-post/portfolios.php:422
+#: include/elementor/portfolios-slide-post/portfolios-post.php:443
+#: include/elementor/price/price.php:207
+#: include/elementor/service-slide-post/services-post.php:443
+#: include/elementor/services-post/services.php:422
+#: include/elementor/support/support.php:388
+#: include/elementor/support/support.php:546
+#: include/elementor/team/team.php:329
+#: include/elementor/testimonial/testimonial.php:374
+#: include/elementor/testimonial/testimonial.php:471
+#: include/elementor/watch/watch.php:265
+msgid "Border Radius"
+msgstr ""
+
+#: include/elementor-functions.php:1861 include/elementor-functions.php:2115
+#: include/elementor/affiliate/affiliate.php:326
+#: include/elementor/banner/banner2.php:364
+#: include/elementor/banner/banner2.php:484
+#: include/elementor/banner/banner3.php:351
+#: include/elementor/banner/banner3.php:471 include/elementor/faq/faq.php:315
+#: include/elementor/faq/faq.php:393 include/elementor/feature/feature.php:440
+#: include/elementor/watch/watch.php:238
+msgid "Normal"
+msgstr ""
+
+#: include/elementor-functions.php:1875 include/elementor-functions.php:1982
+#: include/elementor-functions.php:2129 include/elementor-functions.php:2236
+#: include/elementor/affiliate/affiliate.php:333
+#: include/elementor/affiliate/affiliate.php:363
+#: include/elementor/banner/banner2.php:371
+#: include/elementor/banner/banner2.php:403
+#: include/elementor/banner/banner3.php:358
+#: include/elementor/banner/banner3.php:390 include/elementor/faq/faq.php:468
+#: include/elementor/feature/feature.php:447
+#: include/elementor/feature/feature.php:468
+#: include/elementor/language-switcher/language-switcher.php:91
+#: include/elementor/map/map.php:373 include/elementor/support/support.php:462
+#: include/elementor/support/support.php:494
+#: include/elementor/testimonial/testimonial.php:516
+#: include/elementor/watch/watch.php:307
+msgid "Text Color"
+msgstr ""
+
+#: include/elementor-functions.php:1886 include/elementor-functions.php:1993
+#: include/elementor-functions.php:2140 include/elementor-functions.php:2247
+#: include/elementor/banner/banner2.php:382
+#: include/elementor/banner/banner2.php:414
+#: include/elementor/banner/banner2.php:502
+#: include/elementor/banner/banner2.php:534
+#: include/elementor/banner/banner3.php:369
+#: include/elementor/banner/banner3.php:401
+#: include/elementor/banner/banner3.php:489
+#: include/elementor/banner/banner3.php:521 include/elementor/blog/blog.php:476
+#: include/elementor/feature/feature2.php:244
+#: include/elementor/language-switcher/language-switcher.php:103
+#: include/elementor/portfolios-post/portfolios.php:476
+#: include/elementor/services-post/services.php:476
+#: include/elementor/support/support.php:473
+#: include/elementor/support/support.php:505
+msgid "Background Color"
+msgstr ""
+
+#: include/elementor-functions.php:1898 include/elementor-functions.php:2005
+#: include/elementor-functions.php:2152 include/elementor-functions.php:2259
+#: include/elementor/about/about2.php:434
+#: include/elementor/about/about2.php:509
+#: include/elementor/counter/counter.php:243
+#: include/elementor/feature/feature3.php:312
+#: include/elementor/testimonial/testimonial.php:387
+msgid "Box Shadow"
+msgstr ""
+
+#: include/elementor-functions.php:1906 include/elementor-functions.php:2013
+#: include/elementor-functions.php:2160 include/elementor-functions.php:2267
+msgid "Border Style"
+msgstr ""
+
+#: include/elementor-functions.php:1909 include/elementor-functions.php:2016
+#: include/elementor-functions.php:2163 include/elementor-functions.php:2270
+msgid "Default"
+msgstr ""
+
+#: include/elementor-functions.php:1910 include/elementor-functions.php:2017
+#: include/elementor-functions.php:2164 include/elementor-functions.php:2271
+msgid "None"
+msgstr ""
+
+#: include/elementor-functions.php:1911 include/elementor-functions.php:2018
+#: include/elementor-functions.php:2165 include/elementor-functions.php:2272
+msgid "Solid"
+msgstr ""
+
+#: include/elementor-functions.php:1912 include/elementor-functions.php:2019
+#: include/elementor-functions.php:2166 include/elementor-functions.php:2273
+msgid "Double"
+msgstr ""
+
+#: include/elementor-functions.php:1913 include/elementor-functions.php:2020
+#: include/elementor-functions.php:2167 include/elementor-functions.php:2274
+msgid "Dotted"
+msgstr ""
+
+#: include/elementor-functions.php:1914 include/elementor-functions.php:2021
+#: include/elementor-functions.php:2168 include/elementor-functions.php:2275
+msgid "Dashed"
+msgstr ""
+
+#: include/elementor-functions.php:1915 include/elementor-functions.php:2022
+#: include/elementor-functions.php:2169 include/elementor-functions.php:2276
+msgid "Groove"
+msgstr ""
+
+#: include/elementor-functions.php:1926 include/elementor-functions.php:2033
+#: include/elementor-functions.php:2180 include/elementor-functions.php:2287
+msgid "Border Width"
+msgstr ""
+
+#: include/elementor-functions.php:1939 include/elementor-functions.php:2046
+#: include/elementor-functions.php:2193 include/elementor-functions.php:2300
+#: include/elementor/blog/blog.php:486 include/elementor/btn/btn.php:287
+#: include/elementor/btn/btn.php:415
+#: include/elementor/imageparalax/imageparalax.php:372
+#: include/elementor/portfolios-post/portfolios.php:486
+#: include/elementor/services-post/services.php:486
+#: include/elementor/watch/watch.php:329
+msgid "Border Color"
+msgstr ""
+
+#: include/elementor-functions.php:1968 include/elementor-functions.php:2222
+#: include/elementor/affiliate/affiliate.php:356
+#: include/elementor/banner/banner2.php:396
+#: include/elementor/banner/banner2.php:516
+#: include/elementor/banner/banner3.php:383
+#: include/elementor/banner/banner3.php:503
+#: include/elementor/feature/feature.php:461
+#: include/elementor/watch/watch.php:300
+msgid "Hover"
+msgstr ""
+
+#: include/elementor/about/about.php:55
+msgid "FT About"
+msgstr ""
+
+#: include/elementor/about/about.php:122 include/elementor/about/about2.php:148
+#: include/elementor/accordion-tab/accordion-tab.php:412
+#: include/elementor/affiliate/affiliate.php:122
+#: include/elementor/banner/banner.php:122
+#: include/elementor/banner/banner2.php:122
+#: include/elementor/banner/banner3.php:122
+#: include/elementor/banner/banner4.php:122
+#: include/elementor/brand/brand.php:122
+#: include/elementor/contact/contact.php:122
+#: include/elementor/feature/feature.php:122
+#: include/elementor/feature/feature2.php:122
+#: include/elementor/feature/feature3.php:122
+#: include/elementor/imageanimate/imageanimate.php:65
+#: include/elementor/language-switcher/language-switcher.php:32
+#: include/elementor/map/map.php:122
+#: include/elementor/normal-slide/normal-slide.php:67
+#: include/elementor/support/support.php:122
+#: include/elementor/team/team.php:122
+#: include/elementor/testimonial/testimonial.php:122
+#: include/elementor/video/video.php:66
+msgid "Content"
+msgstr ""
+
+#: include/elementor/about/about.php:131
+#: include/elementor/support/support.php:130
+#: include/elementor/testimonial/testimonial.php:131
+msgid "Section Subtitle"
+msgstr ""
+
+#: include/elementor/about/about.php:140
+#: include/elementor/support/support.php:139
+#: include/elementor/testimonial/testimonial.php:140
+msgid "Section Title"
+msgstr ""
+
+#: include/elementor/about/about.php:149
+#: include/elementor/support/support.php:148
+#: include/elementor/testimonial/testimonial.php:149
+msgid "Section Description"
+msgstr ""
+
+#: include/elementor/about/about.php:159
+msgid "Play Element Image"
+msgstr ""
+
+#: include/elementor/about/about.php:178
+msgid "Step Number"
+msgstr ""
+
+#: include/elementor/about/about.php:187
+msgid "Step Icon"
+msgstr ""
+
+#: include/elementor/about/about.php:198
+#: include/elementor/contact/contact.php:580
+#: include/elementor/feature/feature.php:329
+#: include/elementor/feature/feature2.php:392
+#: include/elementor/feature/feature3.php:300 include/elementor/map/map.php:320
+#: include/elementor/support/support.php:349
+#: include/elementor/team/team.php:300
+msgid "Card Background"
+msgstr ""
+
+#: include/elementor/about/about.php:209
+msgid "Step Title"
+msgstr ""
+
+#: include/elementor/about/about.php:218
+msgid "Step Description"
+msgstr ""
+
+#: include/elementor/about/about.php:227
+msgid "Steps"
+msgstr ""
+
+#: include/elementor/about/about.php:257
+#: include/elementor/affiliate/affiliate.php:194
+#: include/elementor/brand/brand.php:172 include/elementor/btn/btn.php:225
+#: include/elementor/btn/btn.php:354
+#: include/elementor/description/description.php:189
+#: include/elementor/faq/faq.php:252
+#: include/elementor/language-switcher/language-switcher.php:83
+#: include/elementor/title/title.php:189 include/elementor/video/video.php:74
+msgid "Style"
+msgstr ""
+
+#: include/elementor/about/about.php:266
+#: include/elementor/contact/contact.php:307 include/elementor/faq/faq.php:261
+#: include/elementor/feature/feature3.php:215 include/elementor/map/map.php:239
+#: include/elementor/team/team.php:216
+#: include/elementor/testimonial/testimonial.php:271
+msgid "Header Style"
+msgstr ""
+
+#: include/elementor/about/about.php:276 include/elementor/faq/faq.php:269
+#: include/elementor/feature/feature.php:255
+#: include/elementor/feature/feature3.php:224 include/elementor/map/map.php:247
+#: include/elementor/support/support.php:275
+#: include/elementor/team/team.php:225
+#: include/elementor/testimonial/testimonial.php:280
+msgid "Subtitle Color"
+msgstr ""
+
+#: include/elementor/about/about.php:296 include/elementor/about/about2.php:379
+#: include/elementor/brand/brand.php:180
+#: include/elementor/contact/contact.php:324 include/elementor/faq/faq.php:280
+#: include/elementor/faq/faq.php:400 include/elementor/faq/faq.php:432
+#: include/elementor/feature/feature.php:275
+#: include/elementor/feature/feature2.php:448
+#: include/elementor/feature/feature3.php:245 include/elementor/map/map.php:267
+#: include/elementor/support/support.php:295
+#: include/elementor/team/team.php:246
+#: include/elementor/testimonial/testimonial.php:301
+msgid "Title Color"
+msgstr ""
+
+#: include/elementor/about/about.php:316
+#: include/elementor/contact/contact.php:344 include/elementor/faq/faq.php:291
+#: include/elementor/feature/feature.php:296
+#: include/elementor/feature/feature3.php:267 include/elementor/map/map.php:288
+#: include/elementor/support/support.php:316
+#: include/elementor/team/team.php:268
+#: include/elementor/testimonial/testimonial.php:323
+msgid "Description Color"
+msgstr ""
+
+#: include/elementor/about/about.php:336
+msgid "Card Style"
+msgstr ""
+
+#: include/elementor/about/about.php:356
+#: include/elementor/contact/contact.php:598 include/elementor/map/map.php:340
+#: include/elementor/support/support.php:376
+msgid "Card Padding"
+msgstr ""
+
+#: include/elementor/about/about.php:391
+#: include/elementor/feature/feature3.php:382
+#: include/elementor/support/support.php:400
+msgid "Card Title Color"
+msgstr ""
+
+#: include/elementor/about/about.php:411
+#: include/elementor/feature/feature3.php:404
+#: include/elementor/support/support.php:421
+msgid "Card Description Color"
+msgstr ""
+
+#: include/elementor/about/about.php:431 include/elementor/about/about2.php:359
+#: include/elementor/contact/contact.php:546 include/elementor/map/map.php:352
+msgid "Number Color"
+msgstr ""
+
+#: include/elementor/about/about.php:451
+#: include/elementor/contact/contact.php:477
+#: include/elementor/contact/contact.php:610
+#: include/elementor/counter/counter.php:261
+#: include/elementor/feature/feature3.php:363
+#: include/elementor/watch/watch.php:381
+msgid "Icon Size"
+msgstr ""
+
+#: include/elementor/about/about2.php:55
+msgid "FT About Two"
+msgstr ""
+
+#: include/elementor/about/about2.php:122
+msgid "About Content"
+msgstr ""
+
+#: include/elementor/about/about2.php:130
+#: include/elementor/affiliate/affiliate.php:203
+#: include/elementor/banner/banner.php:130
+#: include/elementor/banner/banner2.php:129
+#: include/elementor/banner/banner2.php:269
+#: include/elementor/banner/banner3.php:129
+#: include/elementor/banner/banner3.php:256
+#: include/elementor/banner/banner4.php:130 include/elementor/faq/faq.php:130
+#: include/elementor/feature/feature.php:131
+#: include/elementor/heading/heading.php:146
+#: include/elementor/heading/heading.php:215
+#: include/elementor/imageparalax/imageparalax.php:240
+#: include/elementor/subtitle/subtitle.php:145
+#: include/elementor/subtitle/subtitle.php:189
+msgid "Subtitle"
+msgstr ""
+
+#: include/elementor/about/about2.php:132
+msgid "A few words about us"
+msgstr ""
+
+#: include/elementor/about/about2.php:139
+#: include/elementor/about/about2.php:306
+#: include/elementor/accordion-tab/accordion-tab.php:127
+#: include/elementor/accordion-tab/accordion-tab.php:173
+#: include/elementor/accordion-tab/accordion-tab.php:218
+#: include/elementor/accordion-tab/accordion-tab.php:263
+#: include/elementor/affiliate/affiliate.php:139
+#: include/elementor/affiliate/affiliate.php:244
+#: include/elementor/banner/banner.php:139
+#: include/elementor/banner/banner2.php:138
+#: include/elementor/banner/banner2.php:227
+#: include/elementor/banner/banner3.php:138
+#: include/elementor/banner/banner3.php:214
+#: include/elementor/banner/banner4.php:139 include/elementor/blog/blog.php:173
+#: include/elementor/blog/blog.php:524 include/elementor/brand/brand.php:130
+#: include/elementor/contact/contact.php:130
+#: include/elementor/counter/counter.php:328 include/elementor/faq/faq.php:139
+#: include/elementor/feature/feature.php:141
+#: include/elementor/feature/feature2.php:138
+#: include/elementor/feature/feature3.php:138
+#: include/elementor/heading/heading.php:156
+#: include/elementor/heading/heading.php:272
+#: include/elementor/imageparalax/imageparalax.php:102
+#: include/elementor/imageparalax/imageparalax.php:296
+#: include/elementor/map/map.php:139
+#: include/elementor/portfolios-post/portfolios.php:173
+#: include/elementor/portfolios-post/portfolios.php:524
+#: include/elementor/portfolios-slide-post/portfolios-post.php:176
+#: include/elementor/price/price.php:285
+#: include/elementor/service-slide-post/services-post.php:176
+#: include/elementor/services-post/services.php:173
+#: include/elementor/services-post/services.php:524
+#: include/elementor/team/team.php:139 include/elementor/title/title.php:145
+#: page-settings/manager.php:50 page-settings/manager.php:52
+msgid "Title"
+msgstr ""
+
+#: include/elementor/about/about2.php:141
+msgid "We dream big so you can win big"
+msgstr ""
+
+#: include/elementor/about/about2.php:161
+#: include/elementor/feature/feature2.php:258
+msgid "Subtitle Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:203
+#: include/elementor/feature/feature2.php:300
+msgid "Title Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:245 include/elementor/faq/faq.php:459
+#: include/elementor/testimonial/testimonial.php:486
+msgid "Content Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:287
+#: include/elementor/about/about2.php:315
+#: include/elementor/counter/counter.php:128
+#: include/elementor/counter/counter.php:167
+msgid "Counter Items"
+msgstr ""
+
+#: include/elementor/about/about2.php:297
+#: include/elementor/counter/counter.php:298 include/elementor/map/map.php:171
+msgid "Number"
+msgstr ""
+
+#: include/elementor/about/about2.php:308
+msgid "Winners For Last Month"
+msgstr ""
+
+#: include/elementor/about/about2.php:342
+#: include/elementor/counter/counter.php:194
+msgid "Counter Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:351
+#: include/elementor/contact/contact.php:538 include/elementor/map/map.php:365
+msgid "Number Typography"
+msgstr ""
+
+#: include/elementor/about/about2.php:371
+#: include/elementor/contact/contact.php:316 include/elementor/faq/faq.php:492
+#: include/elementor/feature/feature3.php:258 include/elementor/map/map.php:280
+#: include/elementor/support/support.php:308
+#: include/elementor/team/team.php:259
+#: include/elementor/testimonial/testimonial.php:314
+msgid "Title Typography"
+msgstr ""
+
+#: include/elementor/about/about2.php:390
+msgid "Counter Item Padding"
+msgstr ""
+
+#: include/elementor/about/about2.php:413
+#: include/elementor/about/about2.php:488
+#: include/elementor/counter/counter.php:222
+#: include/elementor/feature/feature.php:353
+#: include/elementor/feature/feature3.php:321
+#: include/elementor/testimonial/testimonial.php:463
+#: include/elementor/watch/watch.php:257
+msgid "Border"
+msgstr ""
+
+#: include/elementor/about/about2.php:445
+#: include/elementor/feature/feature2.php:224
+#: include/elementor/testimonial/testimonial.php:237
+msgid "Section Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:453
+#: include/elementor/feature/feature2.php:232
+#: include/elementor/feature/feature3.php:435 include/elementor/map/map.php:224
+#: include/elementor/testimonial/testimonial.php:256
+msgid "Section Padding"
+msgstr ""
+
+#: include/elementor/about/about2.php:465
+msgid "Section Margin"
+msgstr ""
+
+#: include/elementor/about/about2.php:518
+msgid "Container Style"
+msgstr ""
+
+#: include/elementor/about/about2.php:527
+msgid "Container Padding"
+msgstr ""
+
+#: include/elementor/about/about2.php:540
+msgid "Container Background"
+msgstr ""
+
+#: include/elementor/about/about2.php:550
+msgid "Container Border"
+msgstr ""
+
+#: include/elementor/about/about2.php:558
+msgid "Container Border Radius"
+msgstr ""
+
+#: include/elementor/about/about2.php:571
+msgid "Container Box Shadow"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:34
+msgid "FT Accordion Tab"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:65
+#: include/elementor/accordion-tab/accordion-tab.php:356
+#: include/elementor/affiliate/affiliate.php:314
+#: include/elementor/banner/banner2.php:353
+#: include/elementor/banner/banner3.php:340 include/elementor/blog/blog.php:824
+#: include/elementor/feature/feature.php:428
+#: include/elementor/portfolios-post/portfolios.php:824
+#: include/elementor/price/price.php:512
+#: include/elementor/services-post/services.php:824
+msgid "Button"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:73
+msgid "Button One"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:75
+msgid "Ticket Purchasing"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:83
+msgid "Button Two"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:85
+msgid "Draw and Winners"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:93
+msgid "Button Three"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:95
+msgid "Car Prizes"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:103
+msgid "Button Four"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:105
+msgid "Technical Support"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:116
+msgid "Content One"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:129
+#: include/elementor/accordion-tab/accordion-tab.php:175
+#: include/elementor/accordion-tab/accordion-tab.php:220
+#: include/elementor/accordion-tab/accordion-tab.php:265
+#: include/elementor/accordion/accordion.php:79
+#: include/elementor/heading/heading.php:158
+#: include/elementor/price/price.php:84 include/elementor/price/price.php:94
+#: include/elementor/price/price.php:105 include/elementor/price/price.php:115
+#: include/elementor/price/price.php:135
+msgid "Default title"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:137
+#: include/elementor/accordion-tab/accordion-tab.php:183
+#: include/elementor/accordion-tab/accordion-tab.php:228
+#: include/elementor/accordion-tab/accordion-tab.php:273
+#: include/elementor/affiliate/affiliate.php:148
+#: include/elementor/affiliate/affiliate.php:285
+#: include/elementor/banner/banner.php:148
+#: include/elementor/banner/banner2.php:147
+#: include/elementor/banner/banner2.php:311
+#: include/elementor/banner/banner3.php:147
+#: include/elementor/banner/banner3.php:298
+#: include/elementor/banner/banner4.php:148 include/elementor/blog/blog.php:757
+#: include/elementor/contact/contact.php:139
+#: include/elementor/description/description.php:145
+#: include/elementor/faq/faq.php:148 include/elementor/feature/feature.php:151
+#: include/elementor/feature/feature2.php:147
+#: include/elementor/feature/feature3.php:147
+#: include/elementor/heading/heading.php:166
+#: include/elementor/heading/heading.php:331 include/elementor/map/map.php:148
+#: include/elementor/normal-slide/normal-slide.php:90
+#: include/elementor/normal-slide/normal-slide.php:329
+#: include/elementor/portfolios-post/portfolios.php:757
+#: include/elementor/portfolios-slide-post/portfolios-post.php:458
+#: include/elementor/service-slide-post/services-post.php:458
+#: include/elementor/services-post/services.php:757
+#: include/elementor/team/team.php:148
+msgid "Description"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:140
+#: include/elementor/accordion-tab/accordion-tab.php:186
+#: include/elementor/accordion-tab/accordion-tab.php:231
+#: include/elementor/accordion-tab/accordion-tab.php:276
+#: include/elementor/accordion/accordion.php:91
+#: include/elementor/normal-slide/normal-slide.php:93
+msgid "Default description"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:147
+#: include/elementor/accordion-tab/accordion-tab.php:193
+#: include/elementor/accordion-tab/accordion-tab.php:238
+#: include/elementor/accordion-tab/accordion-tab.php:283
+msgid "Content List"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:162
+msgid "Content Two"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:207
+msgid "Content Three"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:252
+msgid "Content Four"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:298
+msgid "Show or Hide"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:305
+#: include/elementor/accordion-tab/accordion-tab.php:317
+#: include/elementor/accordion-tab/accordion-tab.php:328
+#: include/elementor/accordion-tab/accordion-tab.php:339
+msgid "Show?"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:307
+#: include/elementor/accordion-tab/accordion-tab.php:319
+#: include/elementor/accordion-tab/accordion-tab.php:330
+#: include/elementor/accordion-tab/accordion-tab.php:341
+#: include/elementor/blog/blog.php:223 include/elementor/blog/blog.php:237
+#: include/elementor/blog/blog.php:249 include/elementor/blog/blog.php:261
+#: include/elementor/blog/blog.php:273 include/elementor/btn/btn.php:207
+#: include/elementor/portfolios-post/portfolios.php:223
+#: include/elementor/portfolios-post/portfolios.php:237
+#: include/elementor/portfolios-post/portfolios.php:249
+#: include/elementor/portfolios-post/portfolios.php:261
+#: include/elementor/portfolios-post/portfolios.php:273
+#: include/elementor/portfolios-slide-post/portfolios-post.php:226
+#: include/elementor/portfolios-slide-post/portfolios-post.php:240
+#: include/elementor/portfolios-slide-post/portfolios-post.php:252
+#: include/elementor/portfolios-slide-post/portfolios-post.php:264
+#: include/elementor/portfolios-slide-post/portfolios-post.php:276
+#: include/elementor/service-slide-post/services-post.php:226
+#: include/elementor/service-slide-post/services-post.php:240
+#: include/elementor/service-slide-post/services-post.php:252
+#: include/elementor/service-slide-post/services-post.php:264
+#: include/elementor/service-slide-post/services-post.php:276
+#: include/elementor/services-post/services.php:223
+#: include/elementor/services-post/services.php:237
+#: include/elementor/services-post/services.php:249
+#: include/elementor/services-post/services.php:261
+#: include/elementor/services-post/services.php:273
+msgid "Show"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:308
+#: include/elementor/accordion-tab/accordion-tab.php:320
+#: include/elementor/accordion-tab/accordion-tab.php:331
+#: include/elementor/accordion-tab/accordion-tab.php:342
+#: include/elementor/blog/blog.php:224 include/elementor/blog/blog.php:238
+#: include/elementor/blog/blog.php:250 include/elementor/blog/blog.php:262
+#: include/elementor/blog/blog.php:274 include/elementor/btn/btn.php:208
+#: include/elementor/portfolios-post/portfolios.php:224
+#: include/elementor/portfolios-post/portfolios.php:238
+#: include/elementor/portfolios-post/portfolios.php:250
+#: include/elementor/portfolios-post/portfolios.php:262
+#: include/elementor/portfolios-post/portfolios.php:274
+#: include/elementor/portfolios-slide-post/portfolios-post.php:227
+#: include/elementor/portfolios-slide-post/portfolios-post.php:241
+#: include/elementor/portfolios-slide-post/portfolios-post.php:253
+#: include/elementor/portfolios-slide-post/portfolios-post.php:265
+#: include/elementor/portfolios-slide-post/portfolios-post.php:277
+#: include/elementor/service-slide-post/services-post.php:227
+#: include/elementor/service-slide-post/services-post.php:241
+#: include/elementor/service-slide-post/services-post.php:253
+#: include/elementor/service-slide-post/services-post.php:265
+#: include/elementor/service-slide-post/services-post.php:277
+#: include/elementor/services-post/services.php:224
+#: include/elementor/services-post/services.php:238
+#: include/elementor/services-post/services.php:250
+#: include/elementor/services-post/services.php:262
+#: include/elementor/services-post/services.php:274
+msgid "Hide"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:364
+msgid " Color"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:375
+msgid " Background"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:386
+#: include/elementor/normal-slide/normal-slide.php:516
+#: include/elementor/portfolios-slide-post/portfolios-post.php:645
+#: include/elementor/service-slide-post/services-post.php:645
+msgid "Active Color"
+msgstr ""
+
+#: include/elementor/accordion-tab/accordion-tab.php:397
+#: include/elementor/accordion-tab/accordion-tab.php:431
+msgid "Active Background"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:34
+msgid "FT Accordion "
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:64
+msgid "Accordion"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:77
+#: include/elementor/accordion/accordion.php:136
+msgid "Accordion Title"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:80
+#: include/elementor/heading/heading.php:159
+#: include/elementor/imageparalax/imageparalax.php:105
+msgid "Type your title here"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:88
+msgid "Accordion Description"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:92
+#: include/elementor/heading/heading.php:170
+msgid "Type your description here"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:99
+msgid "Accordion List"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:104
+msgid "01. In et finibus lectus. Donec scelerisque tortor?"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:105
+#: include/elementor/accordion/accordion.php:109
+#: include/elementor/accordion/accordion.php:113
+#: include/elementor/accordion/accordion.php:117
+msgid ""
+"Donec bibendum enim ut elit porta ullamcorper. Vestibulum Nai quam nulla, "
+"venenatis eget dapibus ac, catali aman topuny wekemdini iaculis vitae nulla. "
+"Morbi mattis nec mi ac mollis. "
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:108
+msgid "02. rhoncus turpis porta non Curabitur interdum?"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:112
+msgid "03. Donec ac enim vitae ligula ultrices accum?"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:116
+msgid "04. I have a press/media enquiry – who should I contact can help?"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:164
+#: include/elementor/contact/contact.php:634
+#: include/elementor/watch/watch.php:370
+msgid "Icon Color"
+msgstr ""
+
+#: include/elementor/accordion/accordion.php:203
+msgid "Accordion Descripton"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:55
+msgid "FT Affiliate"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:130
+#: include/elementor/feature/feature2.php:129
+#: include/elementor/feature/feature3.php:129
+#: include/elementor/imageparalax/imageparalax.php:112
+#: include/elementor/map/map.php:130 include/elementor/team/team.php:130
+msgid "Sub Title"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:132
+msgid "Boost Your Earnings"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:141
+msgid "Become an affiliate"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:150
+msgid "Follow these 3 easy steps!"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:157
+#: include/elementor/banner/banner.php:157
+#: include/elementor/banner/banner2.php:155
+#: include/elementor/banner/banner3.php:155
+#: include/elementor/banner/banner4.php:157 include/elementor/blog/blog.php:197
+#: include/elementor/btn/btn.php:178 include/elementor/feature/feature.php:161
+#: include/elementor/portfolios-post/portfolios.php:197
+#: include/elementor/portfolios-slide-post/portfolios-post.php:200
+#: include/elementor/price/price.php:133
+#: include/elementor/service-slide-post/services-post.php:200
+#: include/elementor/services-post/services.php:197
+#: include/elementor/watch/watch.php:151
+msgid "Button Text"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:159
+msgid "join us"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:166
+#: include/elementor/banner/banner.php:166
+#: include/elementor/price/price.php:143
+msgid "Button Link"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:168
+#: include/elementor/banner/banner.php:168
+#: include/elementor/banner/banner2.php:165
+#: include/elementor/banner/banner3.php:165
+#: include/elementor/banner/banner4.php:168 include/elementor/btn/btn.php:190
+#: include/elementor/price/price.php:145 include/elementor/video/video.php:103
+msgid "https://your-link.com"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:180
+msgid "Affiliate Image"
+msgstr ""
+
+#: include/elementor/affiliate/affiliate.php:421
+#: include/elementor/banner/banner2.php:611
+#: include/elementor/testimonial/testimonial.php:247
+msgid "Section Background"
+msgstr ""
+
+#: include/elementor/banner/banner.php:55
+msgid "FT Banner"
+msgstr ""
+
+#: include/elementor/banner/banner.php:132
+msgid "Contest FOR YOUR CHANCE to"
+msgstr ""
+
+#: include/elementor/banner/banner.php:141
+msgid "big win"
+msgstr ""
+
+#: include/elementor/banner/banner.php:150
+msgid ""
+"Now's your chance to win a car! Check out the prestige cars you can win in "
+"our car prize draws. Will you be our next lucky winner?"
+msgstr ""
+
+#: include/elementor/banner/banner.php:159
+#: include/elementor/banner/banner2.php:157
+#: include/elementor/banner/banner3.php:157
+msgid "Participate Now"
+msgstr ""
+
+#: include/elementor/banner/banner.php:180
+msgid "Video Link"
+msgstr ""
+
+#: include/elementor/banner/banner.php:182
+#: include/elementor/banner/banner2.php:178
+#: include/elementor/banner/banner3.php:178
+#: include/elementor/banner/banner4.php:180
+msgid "https://www.youtube.com/..."
+msgstr ""
+
+#: include/elementor/banner/banner.php:193
+msgid "Hero Shape"
+msgstr ""
+
+#: include/elementor/banner/banner.php:204
+msgid "Hero Building"
+msgstr ""
+
+#: include/elementor/banner/banner.php:215
+msgid "Car Shadow"
+msgstr ""
+
+#: include/elementor/banner/banner.php:226
+msgid "Car Ray"
+msgstr ""
+
+#: include/elementor/banner/banner.php:237
+msgid "Car Light"
+msgstr ""
+
+#: include/elementor/banner/banner.php:248
+msgid "Hero Car"
+msgstr ""
+
+#: include/elementor/banner/banner.php:259
+msgid "Car Star"
+msgstr ""
+
+#: include/elementor/banner/banner.php:270
+msgid "Car Main"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:55
+msgid "FT Banner2"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:131
+#: include/elementor/banner/banner3.php:131
+msgid "play anytime, any where"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:140
+msgid "Dream Big Play Small"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:149
+#: include/elementor/banner/banner3.php:149
+#: include/elementor/banner/banner4.php:150
+msgid "Don't miss your chance. Will you be our next lucky winner?"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:163
+#: include/elementor/banner/banner3.php:163
+#: include/elementor/banner/banner4.php:166 include/elementor/btn/btn.php:188
+#: include/elementor/feature/feature.php:171
+msgid "Button URL"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:176
+#: include/elementor/banner/banner3.php:176
+#: include/elementor/banner/banner4.php:178
+#: include/elementor/watch/watch.php:141
+msgid "Video URL"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:189
+#: include/elementor/banner/banner3.php:189
+#: include/elementor/video/video.php:87 include/elementor/watch/watch.php:130
+msgid "Background Image"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:202
+msgid "Hero Car Image"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:213
+msgid "Hero Girl Image"
+msgstr ""
+
+#: include/elementor/banner/banner2.php:473
+#: include/elementor/banner/banner3.php:460
+msgid "Video Button"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:55
+msgid "FT Banner3"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:140
+msgid "Win Big With Rifa"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:200
+msgid "Main Image"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:624
+msgid "Play Icon"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:633
+msgid "Size"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:670
+msgid "Hero Shape Left"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:671
+msgid "Round Shape"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:672
+msgid "Hero Element 1"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:673
+msgid "Hero Element 2"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:674
+msgid "Hero Element 3"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:675
+msgid "Hero Element 4"
+msgstr ""
+
+#: include/elementor/banner/banner3.php:676
+msgid "Hero Element 5"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:55
+msgid "FT Banner4"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:193
+msgid "Images"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:201
+#: include/elementor/banner/banner4.php:271
+msgid "Circle Image"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:212
+#: include/elementor/banner/banner4.php:274
+msgid "Object Image"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:223
+#: include/elementor/banner/banner4.php:278
+msgid "Left Car Image"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:234
+#: include/elementor/banner/banner4.php:281
+msgid "Bike Image"
+msgstr ""
+
+#: include/elementor/banner/banner4.php:245
+#: include/elementor/banner/banner4.php:284
+msgid "Right Car Image"
+msgstr ""
+
+#: include/elementor/blog/blog.php:33
+msgid "FT Blog"
+msgstr ""
+
+#: include/elementor/blog/blog.php:88 include/elementor/btn/btn.php:121
+#: include/elementor/description/description.php:123
+#: include/elementor/heading/heading.php:123
+#: include/elementor/portfolios-post/portfolios.php:88
+#: include/elementor/portfolios-slide-post/portfolios-post.php:91
+#: include/elementor/service-slide-post/services-post.php:91
+#: include/elementor/services-post/services.php:88
+#: include/elementor/subtitle/subtitle.php:123
+#: include/elementor/title/title.php:123
+msgid "General"
+msgstr ""
+
+#: include/elementor/blog/blog.php:96
+#: include/elementor/portfolios-post/portfolios.php:96
+#: include/elementor/portfolios-slide-post/portfolios-post.php:99
+#: include/elementor/service-slide-post/services-post.php:99
+#: include/elementor/services-post/services.php:96
+msgid "Posts Per Page"
+msgstr ""
+
+#: include/elementor/blog/blog.php:106
+#: include/elementor/portfolios-post/portfolios.php:106
+#: include/elementor/portfolios-slide-post/portfolios-post.php:109
+#: include/elementor/service-slide-post/services-post.php:109
+#: include/elementor/services-post/services.php:106
+msgid "Select Posts"
+msgstr ""
+
+#: include/elementor/blog/blog.php:120
+#: include/elementor/portfolios-post/portfolios.php:120
+#: include/elementor/portfolios-slide-post/portfolios-post.php:123
+#: include/elementor/service-slide-post/services-post.php:123
+#: include/elementor/services-post/services.php:120
+msgid "Offset"
+msgstr ""
+
+#: include/elementor/blog/blog.php:129
+#: include/elementor/portfolios-post/portfolios.php:129
+#: include/elementor/portfolios-slide-post/portfolios-post.php:132
+#: include/elementor/service-slide-post/services-post.php:132
+#: include/elementor/services-post/services.php:129
+msgid "Show Title Limit"
+msgstr ""
+
+#: include/elementor/blog/blog.php:131 include/elementor/blog/blog.php:142
+#: include/elementor/portfolios-post/portfolios.php:131
+#: include/elementor/portfolios-post/portfolios.php:142
+#: include/elementor/portfolios-slide-post/portfolios-post.php:134
+#: include/elementor/portfolios-slide-post/portfolios-post.php:145
+#: include/elementor/service-slide-post/services-post.php:134
+#: include/elementor/service-slide-post/services-post.php:145
+#: include/elementor/services-post/services.php:131
+#: include/elementor/services-post/services.php:142
+msgid "20"
+msgstr ""
+
+#: include/elementor/blog/blog.php:140
+#: include/elementor/portfolios-post/portfolios.php:140
+#: include/elementor/portfolios-slide-post/portfolios-post.php:143
+#: include/elementor/service-slide-post/services-post.php:143
+#: include/elementor/services-post/services.php:140
+msgid "Show Content Limit"
+msgstr ""
+
+#: include/elementor/blog/blog.php:167
+#: include/elementor/portfolios-post/portfolios.php:167
+#: include/elementor/portfolios-slide-post/portfolios-post.php:170
+#: include/elementor/service-slide-post/services-post.php:170
+#: include/elementor/services-post/services.php:167
+msgid "Order By"
+msgstr ""
+
+#: include/elementor/blog/blog.php:171
+#: include/elementor/portfolios-post/portfolios.php:171
+#: include/elementor/portfolios-slide-post/portfolios-post.php:174
+#: include/elementor/service-slide-post/services-post.php:174
+#: include/elementor/services-post/services.php:171
+msgid "Post Id"
+msgstr ""
+
+#: include/elementor/blog/blog.php:172
+#: include/elementor/portfolios-post/portfolios.php:172
+#: include/elementor/portfolios-slide-post/portfolios-post.php:175
+#: include/elementor/service-slide-post/services-post.php:175
+#: include/elementor/services-post/services.php:172
+msgid "Post Author"
+msgstr ""
+
+#: include/elementor/blog/blog.php:174 include/elementor/blog/blog.php:603
+#: include/elementor/portfolios-post/portfolios.php:174
+#: include/elementor/portfolios-post/portfolios.php:603
+#: include/elementor/portfolios-slide-post/portfolios-post.php:177
+#: include/elementor/service-slide-post/services-post.php:177
+#: include/elementor/services-post/services.php:174
+#: include/elementor/services-post/services.php:603
+#: include/template/single-event.php:79
+msgid "Date"
+msgstr ""
+
+#: include/elementor/blog/blog.php:175
+#: include/elementor/portfolios-post/portfolios.php:175
+#: include/elementor/portfolios-slide-post/portfolios-post.php:178
+#: include/elementor/service-slide-post/services-post.php:178
+#: include/elementor/services-post/services.php:175
+msgid "Random"
+msgstr ""
+
+#: include/elementor/blog/blog.php:176
+#: include/elementor/portfolios-post/portfolios.php:176
+#: include/elementor/portfolios-slide-post/portfolios-post.php:179
+#: include/elementor/service-slide-post/services-post.php:179
+#: include/elementor/services-post/services.php:176
+msgid "Menu Order"
+msgstr ""
+
+#: include/elementor/blog/blog.php:183
+#: include/elementor/portfolios-post/portfolios.php:183
+#: include/elementor/portfolios-slide-post/portfolios-post.php:186
+#: include/elementor/service-slide-post/services-post.php:186
+#: include/elementor/services-post/services.php:183
+msgid "Order"
+msgstr ""
+
+#: include/elementor/blog/blog.php:186
+#: include/elementor/portfolios-post/portfolios.php:186
+#: include/elementor/portfolios-slide-post/portfolios-post.php:189
+#: include/elementor/service-slide-post/services-post.php:189
+#: include/elementor/services-post/services.php:186
+msgid "Ascending"
+msgstr ""
+
+#: include/elementor/blog/blog.php:187
+#: include/elementor/portfolios-post/portfolios.php:187
+#: include/elementor/portfolios-slide-post/portfolios-post.php:190
+#: include/elementor/service-slide-post/services-post.php:190
+#: include/elementor/services-post/services.php:187
+msgid "Descending"
+msgstr ""
+
+#: include/elementor/blog/blog.php:199
+#: include/elementor/portfolios-post/portfolios.php:199
+#: include/elementor/portfolios-slide-post/portfolios-post.php:202
+#: include/elementor/service-slide-post/services-post.php:202
+#: include/elementor/services-post/services.php:199
+msgid "Read More"
+msgstr ""
+
+#: include/elementor/blog/blog.php:214
+#: include/elementor/portfolios-post/portfolios.php:214
+#: include/elementor/portfolios-slide-post/portfolios-post.php:217
+#: include/elementor/service-slide-post/services-post.php:217
+#: include/elementor/services-post/services.php:214
+msgid "Options"
+msgstr ""
+
+#: include/elementor/blog/blog.php:221
+#: include/elementor/portfolios-post/portfolios.php:221
+#: include/elementor/portfolios-slide-post/portfolios-post.php:224
+#: include/elementor/service-slide-post/services-post.php:224
+#: include/elementor/services-post/services.php:221
+msgid "Show Category"
+msgstr ""
+
+#: include/elementor/blog/blog.php:235
+#: include/elementor/portfolios-post/portfolios.php:235
+#: include/elementor/portfolios-slide-post/portfolios-post.php:238
+#: include/elementor/service-slide-post/services-post.php:238
+#: include/elementor/services-post/services.php:235
+msgid "Show Date"
+msgstr ""
+
+#: include/elementor/blog/blog.php:247
+#: include/elementor/portfolios-post/portfolios.php:247
+#: include/elementor/portfolios-slide-post/portfolios-post.php:250
+#: include/elementor/service-slide-post/services-post.php:250
+#: include/elementor/services-post/services.php:247
+msgid "Show Author"
+msgstr ""
+
+#: include/elementor/blog/blog.php:259
+#: include/elementor/portfolios-post/portfolios.php:259
+#: include/elementor/portfolios-slide-post/portfolios-post.php:262
+#: include/elementor/service-slide-post/services-post.php:262
+#: include/elementor/services-post/services.php:259
+msgid "Show Description"
+msgstr ""
+
+#: include/elementor/blog/blog.php:271
+#: include/elementor/portfolios-post/portfolios.php:271
+#: include/elementor/portfolios-slide-post/portfolios-post.php:274
+#: include/elementor/service-slide-post/services-post.php:274
+#: include/elementor/services-post/services.php:271
+msgid "Show Button"
+msgstr ""
+
+#: include/elementor/blog/blog.php:292
+#: include/elementor/portfolios-post/portfolios.php:292
+#: include/elementor/services-post/services.php:292
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: include/elementor/blog/blog.php:299
+#: include/elementor/portfolios-post/portfolios.php:299
+#: include/elementor/services-post/services.php:299
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: include/elementor/blog/blog.php:302 include/elementor/blog/blog.php:317
+#: include/elementor/blog/blog.php:332 include/elementor/blog/blog.php:347
+#: include/elementor/blog/blog.php:360
+#: include/elementor/portfolios-post/portfolios.php:302
+#: include/elementor/portfolios-post/portfolios.php:317
+#: include/elementor/portfolios-post/portfolios.php:332
+#: include/elementor/portfolios-post/portfolios.php:347
+#: include/elementor/portfolios-post/portfolios.php:360
+#: include/elementor/services-post/services.php:302
+#: include/elementor/services-post/services.php:317
+#: include/elementor/services-post/services.php:332
+#: include/elementor/services-post/services.php:347
+#: include/elementor/services-post/services.php:360
+msgid "2 Columns"
+msgstr ""
+
+#: include/elementor/blog/blog.php:303 include/elementor/blog/blog.php:318
+#: include/elementor/blog/blog.php:333
+#: include/elementor/portfolios-post/portfolios.php:303
+#: include/elementor/portfolios-post/portfolios.php:318
+#: include/elementor/portfolios-post/portfolios.php:333
+#: include/elementor/services-post/services.php:303
+#: include/elementor/services-post/services.php:318
+#: include/elementor/services-post/services.php:333
+msgid "3 Columns"
+msgstr ""
+
+#: include/elementor/blog/blog.php:304 include/elementor/blog/blog.php:319
+#: include/elementor/blog/blog.php:334
+#: include/elementor/portfolios-post/portfolios.php:304
+#: include/elementor/portfolios-post/portfolios.php:319
+#: include/elementor/portfolios-post/portfolios.php:334
+#: include/elementor/services-post/services.php:304
+#: include/elementor/services-post/services.php:319
+#: include/elementor/services-post/services.php:334
+msgid "4 Columns"
+msgstr ""
+
+#: include/elementor/blog/blog.php:305 include/elementor/blog/blog.php:320
+#: include/elementor/blog/blog.php:335 include/elementor/blog/blog.php:348
+#: include/elementor/blog/blog.php:361
+#: include/elementor/portfolios-post/portfolios.php:305
+#: include/elementor/portfolios-post/portfolios.php:320
+#: include/elementor/portfolios-post/portfolios.php:335
+#: include/elementor/portfolios-post/portfolios.php:348
+#: include/elementor/portfolios-post/portfolios.php:361
+#: include/elementor/services-post/services.php:305
+#: include/elementor/services-post/services.php:320
+#: include/elementor/services-post/services.php:335
+#: include/elementor/services-post/services.php:348
+#: include/elementor/services-post/services.php:361
+msgid "1 Column"
+msgstr ""
+
+#: include/elementor/blog/blog.php:314
+#: include/elementor/portfolios-post/portfolios.php:314
+#: include/elementor/services-post/services.php:314
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: include/elementor/blog/blog.php:329
+#: include/elementor/portfolios-post/portfolios.php:329
+#: include/elementor/services-post/services.php:329
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: include/elementor/blog/blog.php:344
+#: include/elementor/portfolios-post/portfolios.php:344
+#: include/elementor/services-post/services.php:344
+msgid "Phones: < 768px"
+msgstr ""
+
+#: include/elementor/blog/blog.php:357
+#: include/elementor/portfolios-post/portfolios.php:357
+#: include/elementor/services-post/services.php:357
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: include/elementor/blog/blog.php:380
+#: include/elementor/imageanimate/imageanimate.php:116
+#: include/elementor/portfolios-post/portfolios.php:380
+#: include/elementor/services-post/services.php:380
+msgid "image"
+msgstr ""
+
+#: include/elementor/blog/blog.php:438
+#: include/elementor/portfolios-post/portfolios.php:438
+#: include/elementor/services-post/services.php:438
+msgid "Category"
+msgstr ""
+
+#: include/elementor/blog/blog.php:563 include/elementor/blog/blog.php:642
+#: include/elementor/blog/blog.php:719 include/elementor/blog/blog.php:865
+#: include/elementor/portfolios-post/portfolios.php:563
+#: include/elementor/portfolios-post/portfolios.php:642
+#: include/elementor/portfolios-post/portfolios.php:719
+#: include/elementor/portfolios-post/portfolios.php:865
+#: include/elementor/services-post/services.php:563
+#: include/elementor/services-post/services.php:642
+#: include/elementor/services-post/services.php:719
+#: include/elementor/services-post/services.php:865
+msgid "Background Hover Color"
+msgstr ""
+
+#: include/elementor/blog/blog.php:679
+#: include/elementor/portfolios-post/portfolios.php:679
+#: include/elementor/services-post/services.php:679
+msgid "Author"
+msgstr ""
+
+#: include/elementor/blog/blog.php:786
+#: include/elementor/portfolios-post/portfolios.php:786
+#: include/elementor/services-post/services.php:786
+msgid "Hover Background Color"
+msgstr ""
+
+#: include/elementor/blog/blog.php:902
+#: include/elementor/portfolios-post/portfolios.php:902
+#: include/elementor/services-post/services.php:902
+msgid "Content Card"
+msgstr ""
+
+#: include/elementor/blog/blog.php:922 include/elementor/btn/btn.php:277
+#: include/elementor/btn/btn.php:405
+#: include/elementor/portfolios-post/portfolios.php:922
+#: include/elementor/price/price.php:563
+#: include/elementor/services-post/services.php:922
+msgid "Hover Background"
+msgstr ""
+
+#: include/elementor/brand/brand.php:55
+msgid "FT Brand"
+msgstr ""
+
+#: include/elementor/brand/brand.php:132
+msgid "Trusted by"
+msgstr ""
+
+#: include/elementor/brand/brand.php:141 include/elementor/brand/brand.php:254
+msgid "Brand Image"
+msgstr ""
+
+#: include/elementor/brand/brand.php:152
+msgid "Brand Items"
+msgstr ""
+
+#: include/elementor/btn/btn.php:51
+msgid "FT Button"
+msgstr ""
+
+#: include/elementor/btn/btn.php:128
+#: include/elementor/description/description.php:130
+#: include/elementor/heading/heading.php:130
+#: include/elementor/subtitle/subtitle.php:130
+#: include/elementor/title/title.php:130
+msgid "Select Style"
+msgstr ""
+
+#: include/elementor/btn/btn.php:131
+#: include/elementor/description/description.php:133
+#: include/elementor/heading/heading.php:133
+#: include/elementor/subtitle/subtitle.php:133
+#: include/elementor/title/title.php:133 include/elementor/video/video.php:78
+msgid "Style One"
+msgstr ""
+
+#: include/elementor/btn/btn.php:132
+#: include/elementor/description/description.php:134
+#: include/elementor/heading/heading.php:134
+#: include/elementor/subtitle/subtitle.php:134
+#: include/elementor/title/title.php:134 include/elementor/video/video.php:79
+msgid "Style Two"
+msgstr ""
+
+#: include/elementor/btn/btn.php:133 include/elementor/heading/heading.php:135
+msgid "Style Three"
+msgstr ""
+
+#: include/elementor/btn/btn.php:143
+msgid "Button Align"
+msgstr ""
+
+#: include/elementor/btn/btn.php:147
+#: include/elementor/description/description.php:161
+#: include/elementor/heading/heading.php:185
+#: include/elementor/subtitle/subtitle.php:161
+#: include/elementor/title/title.php:161
+msgid "Left"
+msgstr ""
+
+#: include/elementor/btn/btn.php:151
+#: include/elementor/description/description.php:165
+#: include/elementor/heading/heading.php:189
+#: include/elementor/subtitle/subtitle.php:165
+#: include/elementor/title/title.php:165
+msgid "Center"
+msgstr ""
+
+#: include/elementor/btn/btn.php:155
+#: include/elementor/description/description.php:169
+#: include/elementor/heading/heading.php:193
+#: include/elementor/subtitle/subtitle.php:169
+#: include/elementor/title/title.php:169
+msgid "Right"
+msgstr ""
+
+#: include/elementor/btn/btn.php:159
+msgid "Justified"
+msgstr ""
+
+#: include/elementor/btn/btn.php:180
+msgid "Click Here"
+msgstr ""
+
+#: include/elementor/btn/btn.php:205
+msgid "Show Icon?"
+msgstr ""
+
+#: include/elementor/btn/btn.php:297 include/elementor/btn/btn.php:425
+msgid "Hover Border Color"
+msgstr ""
+
+#: include/elementor/contact/contact.php:55
+msgid "FT Contact"
+msgstr ""
+
+#: include/elementor/contact/contact.php:132
+msgid "Contact"
+msgstr ""
+
+#: include/elementor/contact/contact.php:141
+msgid ""
+"We'd love to talk about how we can work together. Send us a message below "
+"and we'll respond as soon as possible."
+msgstr ""
+
+#: include/elementor/contact/contact.php:148
+msgid "Form Title"
+msgstr ""
+
+#: include/elementor/contact/contact.php:150
+msgid "Drop us a message"
+msgstr ""
+
+#: include/elementor/contact/contact.php:157
+msgid "Form Shortcode"
+msgstr ""
+
+#: include/elementor/contact/contact.php:160
+msgid "[contact-form-7 id=\"2063fc4\" title=\"Contact Form for Contact Page\"]"
+msgstr ""
+
+#: include/elementor/contact/contact.php:169
+#: include/elementor/contact/contact.php:719
+#: include/elementor/support/support.php:198
+msgid "Phone Number"
+msgstr ""
+
+#: include/elementor/contact/contact.php:178
+#: include/elementor/contact/contact.php:730
+msgid "Email"
+msgstr ""
+
+#: include/elementor/contact/contact.php:187
+#: include/elementor/contact/contact.php:737
+msgid "Contact Image"
+msgstr ""
+
+#: include/elementor/contact/contact.php:199
+msgid "Show Social Stats"
+msgstr ""
+
+#: include/elementor/contact/contact.php:210
+#: include/elementor/counter/counter.php:252
+msgid "Icon"
+msgstr ""
+
+#: include/elementor/contact/contact.php:218
+msgid "Count"
+msgstr ""
+
+#: include/elementor/contact/contact.php:227
+msgid "Label"
+msgstr ""
+
+#: include/elementor/contact/contact.php:236
+msgid "Social Stats"
+msgstr ""
+
+#: include/elementor/contact/contact.php:282
+#: include/elementor/contact/contact.php:715
+msgid "Phone Icon"
+msgstr ""
+
+#: include/elementor/contact/contact.php:293
+#: include/elementor/contact/contact.php:726
+msgid "Email Icon"
+msgstr ""
+
+#: include/elementor/contact/contact.php:336
+#: include/elementor/feature/feature3.php:280 include/elementor/map/map.php:301
+#: include/elementor/support/support.php:329
+#: include/elementor/team/team.php:281
+#: include/elementor/testimonial/testimonial.php:336
+msgid "Description Typography"
+msgstr ""
+
+#: include/elementor/contact/contact.php:358
+msgid "Form Style"
+msgstr ""
+
+#: include/elementor/contact/contact.php:367
+msgid "Form Title Typography"
+msgstr ""
+
+#: include/elementor/contact/contact.php:375
+msgid "Form Title Color"
+msgstr ""
+
+#: include/elementor/contact/contact.php:387
+msgid "Form Background"
+msgstr ""
+
+#: include/elementor/contact/contact.php:397
+msgid "Form Border"
+msgstr ""
+
+#: include/elementor/contact/contact.php:405
+msgid "Form Padding"
+msgstr ""
+
+#: include/elementor/contact/contact.php:420
+msgid "Contact Info Style"
+msgstr ""
+
+#: include/elementor/contact/contact.php:429
+#: include/elementor/contact/contact.php:558
+msgid "Label Typography"
+msgstr ""
+
+#: include/elementor/contact/contact.php:437
+#: include/elementor/contact/contact.php:566
+msgid "Label Color"
+msgstr ""
+
+#: include/elementor/contact/contact.php:449
+msgid "Value Typography"
+msgstr ""
+
+#: include/elementor/contact/contact.php:457
+msgid "Value Color"
+msgstr ""
+
+#: include/elementor/contact/contact.php:468
+msgid "Contact Icons"
+msgstr ""
+
+#: include/elementor/contact/contact.php:500
+msgid "Icon Background"
+msgstr ""
+
+#: include/elementor/contact/contact.php:511
+#: include/elementor/contact/contact.php:645
+msgid "Icon Padding"
+msgstr ""
+
+#: include/elementor/contact/contact.php:526
+msgid "Social Stats Style"
+msgstr ""
+
+#: include/elementor/contact/contact.php:590
+#: include/elementor/support/support.php:359
+#: include/elementor/team/team.php:321
+msgid "Card Border"
+msgstr ""
+
+#: include/elementor/contact/contact.php:658
+msgid "Icon Border"
+msgstr ""
+
+#: include/elementor/counter/counter.php:55
+msgid "FT Counter"
+msgstr ""
+
+#: include/elementor/counter/counter.php:138
+msgid "Counter Icon"
+msgstr ""
+
+#: include/elementor/counter/counter.php:149
+msgid "Counter Number"
+msgstr ""
+
+#: include/elementor/counter/counter.php:158
+msgid "Counter Title"
+msgstr ""
+
+#: include/elementor/counter/counter.php:203
+msgid "Counter Item"
+msgstr ""
+
+#: include/elementor/counter/counter.php:279
+msgid "Icon Bottom Spacing"
+msgstr ""
+
+#: include/elementor/counter/counter.php:357
+msgid "Top Spacing"
+msgstr ""
+
+#: include/elementor/description/description.php:54
+msgid "FT Description"
+msgstr ""
+
+#: include/elementor/description/description.php:147
+#: include/elementor/heading/heading.php:148
+#: include/elementor/subtitle/subtitle.php:147
+#: include/elementor/title/title.php:147
+msgid "Default subtitle"
+msgstr ""
+
+#: include/elementor/description/description.php:148
+#: include/elementor/heading/heading.php:149
+#: include/elementor/subtitle/subtitle.php:148
+#: include/elementor/title/title.php:148
+msgid "Type your subtitle here"
+msgstr ""
+
+#: include/elementor/description/description.php:157
+#: include/elementor/heading/heading.php:181
+#: include/elementor/subtitle/subtitle.php:157
+#: include/elementor/title/title.php:157
+msgid "Text Align"
+msgstr ""
+
+#: include/elementor/description/description.php:218
+#: include/elementor/subtitle/subtitle.php:218
+#: include/elementor/title/title.php:218
+msgid "HoverColor"
+msgstr ""
+
+#: include/elementor/faq/faq.php:55
+msgid "FT FAQ"
+msgstr ""
+
+#: include/elementor/faq/faq.php:121
+msgid "FAQ Content"
+msgstr ""
+
+#: include/elementor/faq/faq.php:160
+msgid "Tab Title"
+msgstr ""
+
+#: include/elementor/faq/faq.php:172
+msgid "Question"
+msgstr ""
+
+#: include/elementor/faq/faq.php:181
+msgid "Answer"
+msgstr ""
+
+#: include/elementor/faq/faq.php:190
+msgid "FAQ Items"
+msgstr ""
+
+#: include/elementor/faq/faq.php:222
+msgid "FAQ Tabs"
+msgstr ""
+
+#: include/elementor/faq/faq.php:303
+msgid "Tab Button Style"
+msgstr ""
+
+#: include/elementor/faq/faq.php:347 include/elementor/faq/faq.php:425
+msgid "Active"
+msgstr ""
+
+#: include/elementor/faq/faq.php:381
+msgid "Accordion Style"
+msgstr ""
+
+#: include/elementor/faq/faq.php:501
+msgid "Tab Button Typography"
+msgstr ""
+
+#: include/elementor/faq/faq.php:510
+msgid "Accordion Title Typography"
+msgstr ""
+
+#: include/elementor/faq/faq.php:519
+msgid "Content Typography"
+msgstr ""
+
+#: include/elementor/feature/feature.php:55
+msgid "FT Feature"
+msgstr ""
+
+#: include/elementor/feature/feature.php:186
+#: include/elementor/feature/feature2.php:171
+msgid "Feature Icon"
+msgstr ""
+
+#: include/elementor/feature/feature.php:197
+#: include/elementor/feature/feature2.php:182
+#: include/elementor/feature/feature2.php:431
+msgid "Feature Title"
+msgstr ""
+
+#: include/elementor/feature/feature.php:206
+msgid "Feature Description"
+msgstr ""
+
+#: include/elementor/feature/feature.php:215
+#: include/elementor/feature/feature2.php:191
+msgid "Feature Items"
+msgstr ""
+
+#: include/elementor/feature/feature.php:246
+#: include/elementor/support/support.php:267
+msgid "Section Header"
+msgstr ""
+
+#: include/elementor/feature/feature.php:319
+msgid "Feature Cards"
+msgstr ""
+
+#: include/elementor/feature/feature.php:384
+msgid "Feature Title Color"
+msgstr ""
+
+#: include/elementor/feature/feature.php:405
+msgid "Feature Description Color"
+msgstr ""
+
+#: include/elementor/feature/feature2.php:55
+msgid "FT Feature2"
+msgstr ""
+
+#: include/elementor/feature/feature2.php:156
+msgid "Feature Car Image"
+msgstr ""
+
+#: include/elementor/feature/feature2.php:342
+msgid "Description Style"
+msgstr ""
+
+#: include/elementor/feature/feature2.php:384
+msgid "Feature Card Style"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:55
+msgid "FT Feature 3"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:131
+msgid "Getting started? It's simple"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:140
+msgid "How it works"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:149
+#, php-format
+msgid ""
+"The affiliate program is our special feature for Customers. Invite users and "
+"earn 40% commission"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:159
+msgid "Icon Image"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:170
+#: include/elementor/support/support.php:171
+msgid "Card Title"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:172
+#: include/elementor/feature/feature3.php:193
+msgid "Sign up"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:179
+#: include/elementor/support/support.php:180
+msgid "Card Description"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:181
+#: include/elementor/feature/feature3.php:194
+msgid "Register with us as an affiliate in just a few easy steps"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:188
+msgid "Work Cards"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:197
+msgid "Promote"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:198
+msgid "Get links or custom affiliate links we provide"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:201
+msgid "earn"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:202
+msgid "You receive commission on every referral"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:236 include/elementor/map/map.php:259
+#: include/elementor/support/support.php:287
+#: include/elementor/team/team.php:237
+#: include/elementor/testimonial/testimonial.php:292
+msgid "Subtitle Typography"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:291
+msgid "Cards Style"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:354
+#: include/elementor/watch/watch.php:361
+msgid "Icon Style"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:395
+#: include/elementor/support/support.php:413
+msgid "Card Title Typography"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:417
+#: include/elementor/support/support.php:434
+msgid "Card Description Typography"
+msgstr ""
+
+#: include/elementor/feature/feature3.php:426
+msgid "Spacing"
+msgstr ""
+
+#: include/elementor/heading/heading.php:54
+msgid "FT Heading"
+msgstr ""
+
+#: include/elementor/heading/heading.php:136
+msgid "Style Four"
+msgstr ""
+
+#: include/elementor/heading/heading.php:169
+msgid "Products and services designed to help you reach your financial goals."
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:34
+msgid "FT Animate Image"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:72
+#: include/elementor/imageparalax/imageparalax.php:91
+#: include/elementor/normal-slide/normal-slide.php:78
+#: include/elementor/price/price.php:71
+msgid "Choose Image"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:84
+msgid "Select Animate"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:88
+msgid "push_animat"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:89
+msgid "rotate"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:90
+msgid "previewSkew"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:91
+msgid "previewShapeRevX"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:92
+msgid "jello"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:93
+msgid "fadeInTopLeft"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:94
+msgid "fadeInTopRight"
+msgstr ""
+
+#: include/elementor/imageanimate/imageanimate.php:95
+msgid "pulse"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:34
+msgid "FT Image Paralax"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:66
+msgid "Image Settings"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:75
+msgid "Translate Position"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:80
+msgid "Horizontal"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:81
+msgid "Veritcal"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:104
+msgid "80+"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:114
+msgid "Years Experience"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:115
+msgid "Type your sub title here"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:125
+msgid "Content Left Position"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:152
+msgid "Content Bottom Position"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:182
+#: include/elementor/normal-slide/normal-slide.php:271
+#: include/elementor/portfolios-slide-post/portfolios-post.php:400
+#: include/elementor/price/price.php:165
+#: include/elementor/service-slide-post/services-post.php:400
+msgid "Image"
+msgstr ""
+
+#: include/elementor/imageparalax/imageparalax.php:354
+#: include/elementor/price/price.php:578
+msgid "Card"
+msgstr ""
+
+#: include/elementor/language-switcher/language-switcher.php:16
+msgid "FT Language Switcher"
+msgstr ""
+
+#: include/elementor/language-switcher/language-switcher.php:42
+msgid "Language Code"
+msgstr ""
+
+#: include/elementor/language-switcher/language-switcher.php:51
+msgid "Language Name"
+msgstr ""
+
+#: include/elementor/language-switcher/language-switcher.php:60
+msgid "Languages"
+msgstr ""
+
+#: include/elementor/language/language.php:55
+msgid "FT Language"
+msgstr ""
+
+#: include/elementor/language/language.php:159
+#: include/elementor/language/language.php:160
+msgid "English"
+msgstr ""
+
+#: include/elementor/language/language.php:163
+msgid "Arabic"
+msgstr ""
+
+#: include/elementor/language/language.php:164
+msgid "العربية"
+msgstr ""
+
+#: include/elementor/map/map.php:55
+msgid "FT Map"
+msgstr ""
+
+#: include/elementor/map/map.php:132
+msgid "Our Users Around the World"
+msgstr ""
+
+#: include/elementor/map/map.php:141
+msgid "Let the number speak for us"
+msgstr ""
+
+#: include/elementor/map/map.php:150
+msgid ""
+"Over the years we have provided millions of players with tickets to "
+"lotteries across the globe and enjoyed having more than one million winners"
+msgstr ""
+
+#: include/elementor/map/map.php:160
+msgid "Card Icon"
+msgstr ""
+
+#: include/elementor/map/map.php:180
+msgid "Text"
+msgstr ""
+
+#: include/elementor/map/map.php:189
+msgid "Statistics Cards"
+msgstr ""
+
+#: include/elementor/map/map.php:216
+msgid "General Style"
+msgstr ""
+
+#: include/elementor/map/map.php:312
+msgid "Stats Cards Style"
+msgstr ""
+
+#: include/elementor/map/map.php:332 include/elementor/support/support.php:368
+#: include/elementor/team/team.php:312
+msgid "Card Box Shadow"
+msgstr ""
+
+#: include/elementor/map/map.php:386
+#: include/elementor/testimonial/testimonial.php:529
+msgid "Text Typography"
+msgstr ""
+
+#: include/elementor/map/map.php:397
+msgid "Map Pointers Style"
+msgstr ""
+
+#: include/elementor/map/map.php:405
+msgid "Pointer Color"
+msgstr ""
+
+#: include/elementor/map/map.php:416
+msgid "Pointer Size"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:34
+msgid "FT Slide Normal"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:100
+#: include/elementor/normal-slide/normal-slide.php:385
+#: include/elementor/portfolios-slide-post/portfolios-post.php:514
+#: include/elementor/price/price.php:226
+#: include/elementor/service-slide-post/services-post.php:514
+#: include/elementor/team/team.php:171
+msgid "Name"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:102
+#: include/elementor/normal-slide/normal-slide.php:146
+msgid "Masud Rana"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:110
+#: include/elementor/normal-slide/normal-slide.php:451
+#: include/elementor/portfolios-slide-post/portfolios-post.php:580
+#: include/elementor/service-slide-post/services-post.php:580
+msgid "Meta"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:112
+msgid "Meta Data"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:124
+#: include/elementor/normal-slide/normal-slide.php:507
+#: include/elementor/portfolios-slide-post/portfolios-post.php:636
+#: include/elementor/service-slide-post/services-post.php:636
+#: include/elementor/testimonial/testimonial.php:190
+msgid "Rating"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:141
+msgid "Testimonial List"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:147
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:163
+#: include/elementor/portfolios-slide-post/portfolios-post.php:292
+#: include/elementor/service-slide-post/services-post.php:292
+msgid "Slider Setting"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:172
+#: include/elementor/portfolios-slide-post/portfolios-post.php:301
+#: include/elementor/service-slide-post/services-post.php:301
+msgid "Enable Loop"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:174
+#: include/elementor/normal-slide/normal-slide.php:187
+#: include/elementor/normal-slide/normal-slide.php:200
+#: include/elementor/portfolios-slide-post/portfolios-post.php:303
+#: include/elementor/portfolios-slide-post/portfolios-post.php:316
+#: include/elementor/portfolios-slide-post/portfolios-post.php:329
+#: include/elementor/service-slide-post/services-post.php:303
+#: include/elementor/service-slide-post/services-post.php:316
+#: include/elementor/service-slide-post/services-post.php:329
+msgid "Yes"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:175
+#: include/elementor/normal-slide/normal-slide.php:188
+#: include/elementor/normal-slide/normal-slide.php:201
+#: include/elementor/portfolios-slide-post/portfolios-post.php:304
+#: include/elementor/portfolios-slide-post/portfolios-post.php:317
+#: include/elementor/portfolios-slide-post/portfolios-post.php:330
+#: include/elementor/service-slide-post/services-post.php:304
+#: include/elementor/service-slide-post/services-post.php:317
+#: include/elementor/service-slide-post/services-post.php:330
+msgid "No"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:185
+#: include/elementor/portfolios-slide-post/portfolios-post.php:314
+#: include/elementor/service-slide-post/services-post.php:314
+msgid "Enable Autoplay"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:198
+#: include/elementor/portfolios-slide-post/portfolios-post.php:327
+#: include/elementor/service-slide-post/services-post.php:327
+msgid "Enable Pagination"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:213
+#: include/elementor/normal-slide/normal-slide.php:257
+#: include/elementor/portfolios-slide-post/portfolios-post.php:342
+#: include/elementor/portfolios-slide-post/portfolios-post.php:386
+#: include/elementor/service-slide-post/services-post.php:342
+#: include/elementor/service-slide-post/services-post.php:386
+msgid "Space Between Slides (px)"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:227
+#: include/elementor/portfolios-slide-post/portfolios-post.php:356
+#: include/elementor/service-slide-post/services-post.php:356
+msgid "Slides per View (Desktop)"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:237
+#: include/elementor/portfolios-slide-post/portfolios-post.php:366
+#: include/elementor/service-slide-post/services-post.php:366
+msgid "Slides per View (Tablet)"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:247
+#: include/elementor/portfolios-slide-post/portfolios-post.php:376
+#: include/elementor/service-slide-post/services-post.php:376
+msgid "Slides per View (Mobile)"
+msgstr ""
+
+#: include/elementor/normal-slide/normal-slide.php:527
+#: include/elementor/portfolios-slide-post/portfolios-post.php:656
+#: include/elementor/service-slide-post/services-post.php:656
+msgid "Non Active Color"
+msgstr ""
+
+#: include/elementor/portfolios-post/portfolios.php:33
+msgid "FT Portfolios Post"
+msgstr ""
+
+#: include/elementor/portfolios-slide-post/portfolios-post.php:34
+msgid "FT Portfolios Slide"
+msgstr ""
+
+#: include/elementor/price/price.php:34
+msgid "FT Price"
+msgstr ""
+
+#: include/elementor/price/price.php:82
+msgid "Price Name"
+msgstr ""
+
+#: include/elementor/price/price.php:92
+msgid "Price Title"
+msgstr ""
+
+#: include/elementor/price/price.php:103
+msgid "Price Symbol"
+msgstr ""
+
+#: include/elementor/price/price.php:113 include/elementor/price/price.php:398
+msgid "Price Unit"
+msgstr ""
+
+#: include/elementor/price/price.php:123
+msgid "Price Feature"
+msgstr ""
+
+#: include/elementor/price/price.php:125
+msgid "Default Feature"
+msgstr ""
+
+#: include/elementor/price/price.php:342
+msgid "Symbol"
+msgstr ""
+
+#: include/elementor/price/price.php:455
+msgid "Feature"
+msgstr ""
+
+#: include/elementor/service-slide-post/services-post.php:34
+msgid "FT Service Slide"
+msgstr ""
+
+#: include/elementor/services-post/services.php:33
+msgid "FT Services Post"
+msgstr ""
+
+#: include/elementor/subtitle/subtitle.php:54
+msgid "FT Subtitle"
+msgstr ""
+
+#: include/elementor/support/support.php:55
+msgid "FT Support"
+msgstr ""
+
+#: include/elementor/support/support.php:160
+msgid "Card Image"
+msgstr ""
+
+#: include/elementor/support/support.php:189
+msgid "Show Contact Buttons"
+msgstr ""
+
+#: include/elementor/support/support.php:209
+msgid "Email Address"
+msgstr ""
+
+#: include/elementor/support/support.php:220
+msgid "FAQ Button Text"
+msgstr ""
+
+#: include/elementor/support/support.php:231
+msgid "FAQ Button URL"
+msgstr ""
+
+#: include/elementor/support/support.php:242
+msgid "Support Cards"
+msgstr ""
+
+#: include/elementor/support/support.php:340
+msgid "Support Card"
+msgstr ""
+
+#: include/elementor/support/support.php:445
+msgid "Buttons"
+msgstr ""
+
+#: include/elementor/support/support.php:454
+msgid "Normal Button"
+msgstr ""
+
+#: include/elementor/support/support.php:485
+msgid "Primary Button"
+msgstr ""
+
+#: include/elementor/support/support.php:517
+#: include/elementor/watch/watch.php:224
+msgid "Button Typography"
+msgstr ""
+
+#: include/elementor/support/support.php:525
+msgid "Button Padding"
+msgstr ""
+
+#: include/elementor/support/support.php:538
+msgid "Button Border"
+msgstr ""
+
+#: include/elementor/support/support.php:620
+msgid "Call us"
+msgstr ""
+
+#: include/elementor/support/support.php:627
+msgid "Email us"
+msgstr ""
+
+#: include/elementor/team/team.php:55
+msgid "FT Team"
+msgstr ""
+
+#: include/elementor/team/team.php:160 include/elementor/team/team.php:402
+msgid "Member Image"
+msgstr ""
+
+#: include/elementor/team/team.php:180 include/elementor/team/team.php:372
+msgid "Designation"
+msgstr ""
+
+#: include/elementor/team/team.php:189
+msgid "Team Members"
+msgstr ""
+
+#: include/elementor/team/team.php:292
+msgid "Team Card Style"
+msgstr ""
+
+#: include/elementor/team/team.php:342
+msgid "Member Name"
+msgstr ""
+
+#: include/elementor/team/team.php:351
+#: include/elementor/testimonial/testimonial.php:495
+msgid "Name Color"
+msgstr ""
+
+#: include/elementor/team/team.php:363
+#: include/elementor/testimonial/testimonial.php:507
+msgid "Name Typography"
+msgstr ""
+
+#: include/elementor/team/team.php:381
+msgid "Designation Color"
+msgstr ""
+
+#: include/elementor/team/team.php:393
+msgid "Designation Typography"
+msgstr ""
+
+#: include/elementor/team/team.php:412
+msgid "Image Border"
+msgstr ""
+
+#: include/elementor/team/team.php:420
+msgid "Image Border Radius"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:55
+msgid "FT Testimonial"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:133
+msgid "Testimonial"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:142
+msgid "our Happy Customers All Around the World"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:151
+msgid ""
+"With over 12 years of experience as the world's leading online lottery "
+"service provider. Find out what our members have to say about us!"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:161
+msgid "Client Image"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:172
+msgid "Client Name"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:174
+#: include/elementor/testimonial/testimonial.php:211
+msgid "Dave Ford"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:181
+msgid "Testimonial Text"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:183
+#: include/elementor/testimonial/testimonial.php:212
+msgid ""
+"Unbelievable this is a dream come true,no way would I ever think I would own "
+"a car like this"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:206
+msgid "Testimonials"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:217
+msgid "John Smith"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:218
+msgid ""
+"Amazing experience! I never thought I would be so lucky. This has changed my "
+"life completely."
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:347
+msgid "Testimonial Box Style"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:356
+msgid "Box Background"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:366
+msgid "Box Border"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:410
+msgid "Client Image Style"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:538
+msgid "Rating Color"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:550
+msgid "Rating Size"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial.php:568
+msgid "Rating Spacing"
+msgstr ""
+
+#: include/elementor/title/title.php:54
+msgid "FT Title"
+msgstr ""
+
+#: include/elementor/video/video.php:34
+msgid "FT Video"
+msgstr ""
+
+#: include/elementor/video/video.php:101
+msgid "VideoLink"
+msgstr ""
+
+#: include/elementor/watch/watch.php:55
+msgid "FT Watch"
+msgstr ""
+
+#: include/elementor/watch/watch.php:122
+msgid "Video Settings"
+msgstr ""
+
+#: include/elementor/watch/watch.php:144
+msgid "Enter your YouTube video URL"
+msgstr ""
+
+#: include/elementor/watch/watch.php:154
+msgid "Enter button text"
+msgstr ""
+
+#: include/elementor/watch/watch.php:161
+msgid "Bottom Padding"
+msgstr ""
+
+#: include/elementor/watch/watch.php:181
+msgid "Top Margin"
+msgstr ""
+
+#: include/elementor/watch/watch.php:204
+msgid "Style Settings"
+msgstr ""
+
+#: include/elementor/watch/watch.php:212
+msgid "Button Color"
+msgstr ""
+
+#: include/elementor/watch/watch.php:348
+msgid "Hover Animation"
+msgstr ""
+
+#: include/elementor/watch/watch.php:403
+msgid "Icon Spacing"
+msgstr ""
+
+#: include/shortcode-elementor/elementor-shortcode.php:20
+msgid "Shortcode"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:4
+msgid "FT Global Shortcodes"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:5
+msgid "Elementor Shortcodes"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:6
+msgctxt "ftaddon"
+msgid "Add New Shorcode"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:7
+msgid "Add New Shorcode"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:8
+msgid "Edit Element"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:9
+msgid "New Shortcode"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:10
+msgid "All Shorcodes"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:11
+msgid "View Elements"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:12
+msgid "No Elements found"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:13
+msgid "No Elements found in Trash"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:14
+msgid "Parent Team:"
+msgstr ""
+
+#: include/shortcode-elementor/includes/post-type.php:15
+msgid "FT Shorcode"
+msgstr ""
+
+#: include/template/game-single-job.php:45
+msgid "Apply for the position now!"
+msgstr ""
+
+#: include/template/game-single-job.php:46
+msgid "Join a growing team in a dynamic environment."
+msgstr ""
+
+#: include/template/game-single-job.php:93
+msgid "Let’s Get started"
+msgstr ""
+
+#: include/template/game-single-job.php:94
+msgid "For further info & support,"
+msgstr ""
+
+#: include/template/game-single-job.php:94
+msgid "Contact us"
+msgstr ""
+
+#: include/template/single-campaign.php:66
+msgid "our goal"
+msgstr ""
+
+#: include/template/single-campaign.php:70
+msgid "Raised"
+msgstr ""
+
+#: include/template/single-campaign.php:74
+msgid "to go"
+msgstr ""
+
+#: include/template/single-event.php:74
+msgid "Speaker"
+msgstr ""
+
+#: include/template/single-event.php:142
+msgid "End Time:"
+msgstr ""
+
+#: include/template/single-event.php:153
+msgid "Start Time:"
+msgstr ""
+
+#: include/template/single-event.php:164
+msgid "Venue:"
+msgstr ""
+
+#: include/template/single-event.php:179
+msgid "Sponsors:"
+msgstr ""
+
+#: include/template/single-event.php:187
+msgid "Email:"
+msgstr ""
+
+#: include/template/single-event.php:189
+msgid "Share:"
+msgstr ""
+
+#: include/widgets/blog-post-sidebar.php:63
+#: include/widgets/latest-posts-footer-2.php:59
+#: include/widgets/latest-posts-footer.php:54
+#: include/widgets/service-cat-list.php:55 include/widgets/service-list.php:56
+#: include/widgets/service-menu-list.php:42
+msgid "3"
+msgstr ""
+
+#: include/widgets/blog-post-sidebar.php:64
+#: include/widgets/latest-posts-footer-2.php:60
+#: include/widgets/latest-posts-footer.php:55
+#: include/widgets/service-cat-list.php:56 include/widgets/service-list.php:57
+#: include/widgets/service-menu-list.php:43
+msgid "DESC"
+msgstr ""
+
+#: include/widgets/blog-post-sidebar.php:65
+#: include/widgets/latest-posts-footer-2.php:61
+#: include/widgets/latest-posts-footer.php:56
+msgid "style_1"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:21
+msgid "Zibber Contact Info"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:22
+msgid "Zibber Contact Info Widget"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:86
+#: include/widgets/info-widget.php:103
+#: include/widgets/portfolio-info-widget.php:73
+#: include/widgets/sidebar-form-widget.php:54
+#: include/widgets/subscriber-widget.php:117
+#: include/widgets/subscriber2-widget.php:115
+msgid "Title:"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:92
+msgid "Address:"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:97
+msgid "Email Address:"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:102
+msgid "Phone Number:"
+msgstr ""
+
+#: include/widgets/contact-info-widget.php:107
+msgid "Website Url:"
+msgstr ""
+
+#: include/widgets/info-widget.php:21
+msgid "Zibber Info"
+msgstr ""
+
+#: include/widgets/info-widget.php:22
+msgid "Zibber Info Widget"
+msgstr ""
+
+#: include/widgets/info-widget.php:107
+msgid "Short Description:"
+msgstr ""
+
+#: include/widgets/info-widget.php:121
+#: include/widgets/subscriber-widget.php:137
+#: include/widgets/subscriber2-widget.php:135
+msgid "Facebook:"
+msgstr ""
+
+#: include/widgets/info-widget.php:127
+#: include/widgets/subscriber-widget.php:143
+#: include/widgets/subscriber2-widget.php:141
+msgid "Twitter:"
+msgstr ""
+
+#: include/widgets/info-widget.php:132
+#: include/widgets/subscriber-widget.php:148
+#: include/widgets/subscriber2-widget.php:146
+msgid "Instagram:"
+msgstr ""
+
+#: include/widgets/info-widget.php:136
+#: include/widgets/subscriber-widget.php:152
+#: include/widgets/subscriber2-widget.php:150
+msgid "Youtube:"
+msgstr ""
+
+#: include/widgets/info-widget.php:141
+#: include/widgets/subscriber-widget.php:157
+#: include/widgets/subscriber2-widget.php:155
+msgid "linkedin:"
+msgstr ""
+
+#: include/widgets/portfolio-info-widget.php:12
+msgid "TP Portfolio Info"
+msgstr ""
+
+#: include/widgets/portfolio-info-widget.php:13
+msgid "TP Portfolio Info Widget by Theme_Pure"
+msgstr ""
+
+#: include/widgets/sidebar-form-widget.php:12
+msgid "TP Sidebar Form"
+msgstr ""
+
+#: include/widgets/sidebar-form-widget.php:13
+msgid "TP Sidebar Form Widget by Theme_Pure"
+msgstr ""
+
+#: include/widgets/sidebar-form-widget.php:59
+msgid "Form Shortcode:"
+msgstr ""
+
+#: include/widgets/subscriber-widget.php:21
+msgid "Bizker Footer Subscriber"
+msgstr ""
+
+#: include/widgets/subscriber-widget.php:22
+#: include/widgets/subscriber2-widget.php:22
+msgid "Bizker Subscriber Widget"
+msgstr ""
+
+#: include/widgets/subscriber-widget.php:122
+#: include/widgets/subscriber2-widget.php:120
+msgid "Mailchimp Shortcode:"
+msgstr ""
+
+#: include/widgets/subscriber-widget.php:127
+#: include/widgets/subscriber2-widget.php:125
+msgid "Mailchimp text"
+msgstr ""
+
+#: include/widgets/subscriber-widget.php:132
+#: include/widgets/subscriber2-widget.php:130
+msgid "Social Title"
+msgstr ""
+
+#: include/widgets/subscriber2-widget.php:21
+msgid "Bizker Footer Subscriber 2"
+msgstr ""
+
+#: page-settings/manager.php:24
+msgid "New Tab"
+msgstr ""
+
+#: page-settings/manager.php:42
+msgid "Settings"
+msgstr ""
+
+#: plugin.php:56
+msgid "FT Addons"
+msgstr ""
+
+#: plugin.php:273
+msgid "FT - Feather Icons"
+msgstr ""
+
+#: plugin.php:342
+msgid "FT - Fontawesome Pro Light"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rifa Core"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://your-site.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Core plugin for Rifa theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Your Name"
+msgstr ""

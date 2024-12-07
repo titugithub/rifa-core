@@ -1,0 +1,142 @@
+/* .question-section {
+    background: rgba(244, 244, 244, 0.5);
+  } */
+
+.tabcontents {
+  position: relative;
+}
+
+.tabitem {
+  transform: translateY(100px);
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  width: 100%;
+  opacity: 0;
+  transition: 0.5s all;
+}
+
+.tabitem.active {
+  position: initial;
+  z-index: 1;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.question-tab .tablinks {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.question-tab .tablinks .nav-links .tablink {
+  color: #000;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 14px 24px;
+  background: #f4f4f4;
+  border-radius: 100px;
+  transition: all 0.4s;
+}
+.question-tab .tablinks .nav-links.active .tablink {
+  background: #554aff;
+  color: #fff;
+}
+@media (max-width: 1199px) {
+  .question-tab .tablinks {
+    gap: 10px;
+  }
+  .question-tab .tablinks .nav-links .tablink {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+  }
+  .question-tab .tablinks .nav-links.active .tablink {
+    border-radius: 16px;
+    font-size: 18px;
+  }
+}
+@media (max-width: 991px) {
+  .question-tab .tablinks .nav-links .tablink {
+    font-size: 16px;
+    padding: 10px 16px;
+  }
+  .question-tab .tablinks .nav-links.active .tablink {
+    font-size: 16px;
+  }
+}
+
+.question-sectionv15 {
+  background: rgba(244, 244, 244, 0.5);
+}
+
+.accordion-single {
+  border-radius: 24px;
+  overflow: hidden;
+  transition: all 0.4s;
+}
+.accordion-single:not(:last-child) {
+  margin-bottom: 24px;
+}
+.accordion-single .header-area .accordion-btn {
+  background: #f4f4f4;
+  padding: 20px 24px;
+  transition: all 0.4s;
+}
+.accordion-single .header-area .accordion-btn .faq-icon i {
+  transition: all 0.4s;
+}
+.accordion-single .content-area {
+  display: none;
+  padding: 0 24px 20px;
+}
+.accordion-single .content-area p {
+  color: #fff;
+  transition: all 0.5s;
+  font-size: 18px;
+}
+.accordion-single.active {
+  background: #554aff;
+}
+.accordion-single.active .header-area .accordion-btn {
+  background: #554aff;
+}
+.accordion-single.active .header-area .accordion-btn span {
+  color: #fff;
+}
+.accordion-single.active .header-area .accordion-btn .faq-icon {
+  transform: rotate(180deg);
+}
+.accordion-single.active .header-area .accordion-btn .faq-icon i {
+  color: #fff;
+}
+@media (max-width: 400px) {
+  .accordion-single .header-area .accordion-btn {
+    padding: 16px 18px;
+  }
+  .accordion-single .content-area {
+    padding: 0 20px 14px;
+  }
+  .accordion-single .content-area p {
+    font-size: 16px;
+  }
+}
+
+.this-single.active .content-area {
+  display: block;
+}
+
+.n4-clr {
+  color: var(--n4);
+}
+.fw_700 {
+  font-weight: 700 !important;
+}
+.fs20 {
+  font-size: 20px;
+  line-height: 1.4;
+}
+.d-block {
+  display: block !important;
+}

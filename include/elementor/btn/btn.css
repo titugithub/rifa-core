@@ -1,0 +1,172 @@
+/* ================Button One============== */
+
+
+.cmn-btn1 {
+    background-color: #9ad953;
+    color: #141414;
+    font-weight: 500;
+    border-radius: 12px;
+    transition: all 0.5s ease-in-out;
+    text-transform: capitalize;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 1;
+    display: inline-flex;
+    white-space: nowrap;
+  }
+  .cmn-btn1::before, .cmn-btn1::after {
+    content: "";
+    width: 60px;
+    height: 60px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 50%;
+    z-index: -1;
+    background-color: #f5c06d;
+    transition: all 0.5s ease-in-out;
+  }
+  .cmn-btn1 i {
+    transition: all 0.35s ease-in-out;
+  }
+  .cmn-btn1 i.ti-trending-up,
+  .cmn-btn1 i.ti-video {
+    transition: 0s;
+  }
+  .cmn-btn1::before {
+    top: -26px;
+    left: -26px;
+  }
+  .cmn-btn1::after {
+    left: calc(100% + 1.7em);
+    top: calc(100% + 1.7em);
+  }
+  .cmn-btn1:active {
+    filter: brightness(0.8);
+  }
+  .cmn-btn1:focus, .cmn-btn1:hover {
+    color: rgb(var(--nb4));
+  }
+  .cmn-btn1:focus i, .cmn-btn1:hover i {
+    transform: rotate(-45deg);
+  }
+  .cmn-btn1:focus i.ti-trending-up,
+  .cmn-btn1:focus i.ti-video, .cmn-btn1:hover i.ti-trending-up,
+  .cmn-btn1:hover i.ti-video {
+    transform: rotate(0);
+    transition: 0s;
+  }
+  .cmn-btn1:focus::before, .cmn-btn1:focus::after, .cmn-btn1:hover::before, .cmn-btn1:hover::after {
+    height: 410px;
+    width: 410px;
+  }
+  .cmn-btn1:focus::before, .cmn-btn1:hover::before {
+    top: -33px;
+    left: 20%;
+  }
+  .cmn-btn1:focus::after, .cmn-btn1:hover::after {
+    bottom: -33px;
+    left: calc(100% - 3em);
+  }
+  .cmn-btn1.alt {
+    background-color: rgb(var(--nb4));
+    color: rgb(var(--nw1));
+  }
+  @media (min-width: 1400px) {
+    .cmn-btn1.alt-xxl-bg {
+      background-color: rgb(var(--nb4));
+      color: rgb(var(--nw1));
+    }
+    .cmn-btn1.alt-xxl-bg:hover {
+      color: rgb(var(--nb4));
+    }
+  }
+  .cmn-btn1.secondary-alt {
+    background-color: rgb(var(--s1));
+    color: rgb(var(--a2));
+  }
+  .cmn-btn1.secondary-alt::before, .cmn-btn1.secondary-alt::after {
+    background-color: rgb(var(--p1));
+  }
+  .cmn-btn1.outline_btn {
+    background-color: transparent;
+    border: 1px solid rgb(var(--s1));
+    color: rgb(var(--nw1));
+  }
+  .cmn-btn1.outline_btn i {
+    transition: 0.3s linear;
+  }
+  .cmn-btn1.outline_btn:hover, .cmn-btn1.outline_btn:focus {
+    color: rgb(var(--a2));
+    background-color: rgba(var(--s1), 1);
+  }
+  .cmn-btn1.outline_btn:hover i, .cmn-btn1.outline_btn:focus i {
+    color: inherit;
+  }
+  .cmn-btn1.tag_btn {
+    background-color: transparent;
+    border: 1px solid rgb(var(--nb2));
+    color: rgb(var(--nw1));
+  }
+  .cmn-btn1.tag_btn::before, .cmn-btn1.tag_btn::after, .cmn-btn1.tag_btn.active {
+    background-color: rgba(var(--p1), 0.12);
+  }
+  .cmn-btn1.tag_btn:hover, .cmn-btn1.tag_btn:focus, .cmn-btn1.tag_btn.active {
+    color: rgb(var(--p1));
+  }
+  .cmn-btn1.link {
+    background-color: transparent;
+    color: rgba(var(--s1), 1);
+    border-bottom: 2px solid rgba(var(--s1), 1);
+    border-radius: 0;
+    transition: all 0.5s ease-in-out;
+  }
+  .cmn-btn1.link::before, .cmn-btn1.link::after {
+    background-color: transparent;
+    color: rgba(var(--nw1), 1);
+  }
+  @media (min-width: 1400px) {
+    .cmn-btn1.link.link-xxl-color {
+      color: rgba(var(--nb4), 1);
+      border-bottom: 2px solid rgba(var(--nb4), 1);
+    }
+  }
+  .cmn-btn1.link i {
+    color: inherit;
+    transition: all 0.35s ease-in-out;
+  }
+  .cmn-btn1.link:hover i {
+    transform: rotate(-45deg);
+  }
+  .cmn-btn1.secondary-link {
+    background-color: transparent;
+    color: rgba(var(--nb4), 1);
+    border-bottom: 2px solid rgba(var(--nb4), 1);
+  }
+  .cmn-btn1.secondary-link i {
+    color: inherit;
+  }
+  .cmn-btn1.third-link {
+    background-color: transparent;
+    color: rgba(var(--nw1), 1);
+    border-bottom: 2px solid rgba(var(--p1), 1);
+  }
+  .cmn-btn1.third-link i {
+    color: rgba(var(--p1), 1);
+  }
+  .cmn-btn1.cmn-btn1-circle {
+    width: 146px;
+    min-width: 146px;
+    height: 146px;
+    background: rgba(var(--p1), 1);
+    border-radius: 50%;
+  }
+  @media (max-width: 991px) {
+    .cmn-btn1.cmn-btn1-circle {
+      width: 100px;
+      min-width: 100px;
+      height: 100px;
+    }
+  }
+
+  /* =========================Button One End========================= */
